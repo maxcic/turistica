@@ -223,6 +223,18 @@
         "shift" : "f",
         "transport" : "aereoCT_RM"
       },
+      "2026-04-01" : {
+        "shift" : "f"
+      },
+      "2026-04-02" : {
+        "shift" : "f"
+      },
+      "2026-04-03" : {
+        "shift" : "f"
+      },
+      "2026-04-07" : {
+        "shift" : "f"
+      },
       "2026-04-17" : {
         "transport" : "aereoRM_CT"
       },
