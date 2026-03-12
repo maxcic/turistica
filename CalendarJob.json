@@ -1,6 +1,17 @@
 {
   "data": {
     "Francesco": {
+
+      "2026-03-16": { "transport": "busCT_RM" },
+      "2026-03-18": { "transport": "busRM_CT" },
+      "2026-03-31": { "transport": "aereoCT_RM" },
+
+      "2026-04-17": { "transport": "aereoRM_CT" },
+      "2026-04-19": { "transport": "trenoCT_RM" },
+      "2026-04-30": { "transport": "aereoRM_CT" },
+
+      "2026-05-03": { "transport": "trenoCT_RM" },
+
       "2024-07-22": { "shift": "AH" },
       "2024-07-23": { "shift": "AH" },
       "2024-07-24": { "shift": "AH" },
