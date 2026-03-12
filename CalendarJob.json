@@ -32,13 +32,15 @@
         "shift" : "sw"
       },
       "2026-03-16" : {
-        "shift" : "sw"
+        "shift" : "sw",
+        "transport" : "busCT_RM"
       },
       "2026-03-17" : {
         "shift" : "c"
       },
       "2026-03-18" : {
-        "shift" : "p"
+        "shift" : "p",
+        "transport" : "busRM_CT"
       },
       "2026-03-19" : {
         "shift" : "f"
@@ -105,6 +107,9 @@
         "shift" : "p",
         "transport" : "aereoRM_CT"
       },
+      "2026-04-19" : {
+        "transport" : "trenoCT_RM"
+      },
       "2026-04-20" : {
         "shift" : "p"
       },
@@ -130,7 +135,11 @@
         "shift" : "p"
       },
       "2026-04-30" : {
-        "shift" : "p"
+        "shift" : "p",
+        "transport" : "aereoRM_CT"
+      },
+      "2026-05-03" : {
+        "transport" : "trenoCT_RM"
       },
       "2026-05-04" : {
         "shift" : "p"
