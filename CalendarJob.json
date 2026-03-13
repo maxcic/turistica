@@ -262,11 +262,48 @@
       "2026-04-07" : {
         "shift" : "f"
       },
+      "2026-04-15" : {
+        "shift" : "H"
+      },
+      "2026-04-16" : {
+        "shift" : "H"
+      },
       "2026-04-17" : {
+        "shift" : "H",
         "transport" : "aereoRM_CT"
       },
       "2026-04-19" : {
         "transport" : "trenoCT_RM"
+      },
+      "2026-04-20" : {
+        "shift" : "H"
+      },
+      "2026-04-21" : {
+        "shift" : "H"
+      },
+      "2026-04-22" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "ds"
+      },
+      "2026-04-23" : {
+        "shift" : "H"
+      },
+      "2026-04-24" : {
+        "shift" : "H"
+      },
+      "2026-04-27" : {
+        "shift" : "H"
+      },
+      "2026-04-28" : {
+        "shift" : "H"
+      },
+      "2026-04-29" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "pp"
       },
       "2026-04-30" : {
         "transport" : "aereoRM_CT"
