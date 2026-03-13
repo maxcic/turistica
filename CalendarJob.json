@@ -220,7 +220,7 @@
         "shift" : "f"
       },
       "2026-03-31" : {
-        "shift" : "f",
+        "shift" : "ds",
         "transport" : "aereoCT_RM"
       },
       "2026-04-01" : {
