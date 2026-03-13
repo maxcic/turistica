@@ -156,21 +156,18 @@
       },
       "2026-02-23" : {
         "entryTime" : "08:00",
-        "excessMinutes" : 300,
-        "exitTime" : "20:42",
-        "shift" : "ds"
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-02-26" : {
         "entryTime" : "08:00",
-        "excessMinutes" : 3,
-        "exitTime" : "15:45",
-        "shift" : "pp"
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-02-27" : {
         "entryTime" : "08:00",
-        "excessMinutes" : 60,
-        "exitTime" : "16:42",
-        "shift" : "p"
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-03-02" : {
         "shift" : "f"
@@ -233,14 +230,14 @@
       },
       "2026-03-27" : {
         "entryTime" : "08:00",
-        "excessMinutes" : -60,
-        "exitTime" : "14:42",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
         "shift" : "f"
       },
       "2026-03-30" : {
         "entryTime" : "08:00",
-        "excessMinutes" : 240,
-        "exitTime" : "19:42",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
         "shift" : "f"
       },
       "2026-03-31" : {
@@ -259,16 +256,31 @@
       "2026-04-03" : {
         "shift" : "f"
       },
+      "2026-04-07" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "f"
+      },
+      "2026-04-08" : {
+        "shift" : "p"
+      },
+      "2026-04-09" : {
+        "shift" : "p"
+      },
+      "2026-04-10" : {
+        "shift" : "p"
+      },
       "2026-04-13" : {
-        "shift" : "sw"
+        "shift" : "p"
       },
       "2026-04-14" : {
-        "shift" : "sw"
+        "shift" : "p"
       },
       "2026-04-15" : {
         "entryTime" : "08:00",
-        "excessMinutes" : 180,
-        "exitTime" : "18:42",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
         "shift" : "p"
       },
       "2026-04-16" : {
@@ -278,6 +290,7 @@
         "shift" : "p"
       },
       "2026-04-17" : {
+        "shift" : "p",
         "transport" : "aereoRM_CT"
       },
       "2026-04-19" : {
@@ -293,33 +306,37 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "shift" : "f"
+        "shift" : "p"
       },
       "2026-04-23" : {
-        "shift" : "f"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "p"
       },
       "2026-04-24" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "shift" : "CF"
+        "shift" : "p"
       },
       "2026-04-27" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "shift" : "H"
+        "shift" : "p"
       },
       "2026-04-28" : {
-        "shift" : "H"
+        "shift" : "p"
       },
       "2026-04-29" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "shift" : "H"
+        "shift" : "p"
       },
       "2026-04-30" : {
+        "shift" : "p",
         "transport" : "aereoRM_CT"
       },
       "2026-05-03" : {
