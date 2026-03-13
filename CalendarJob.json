@@ -259,21 +259,65 @@
       "2026-04-03" : {
         "shift" : "f"
       },
+      "2026-04-13" : {
+        "shift" : "sw"
+      },
+      "2026-04-14" : {
+        "shift" : "sw"
+      },
+      "2026-04-15" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 180,
+        "exitTime" : "18:42",
+        "shift" : "p"
+      },
+      "2026-04-16" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : -60,
+        "exitTime" : "14:42",
+        "shift" : "p"
+      },
       "2026-04-17" : {
         "transport" : "aereoRM_CT"
       },
       "2026-04-19" : {
         "transport" : "trenoCT_RM"
       },
+      "2026-04-20" : {
+        "shift" : "p"
+      },
+      "2026-04-21" : {
+        "shift" : "p"
+      },
       "2026-04-22" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
-        "exitTime" : "15:42"
+        "exitTime" : "15:42",
+        "shift" : "f"
+      },
+      "2026-04-23" : {
+        "shift" : "f"
+      },
+      "2026-04-24" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "CF"
+      },
+      "2026-04-27" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "H"
+      },
+      "2026-04-28" : {
+        "shift" : "H"
       },
       "2026-04-29" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
-        "exitTime" : "15:42"
+        "exitTime" : "15:42",
+        "shift" : "H"
       },
       "2026-04-30" : {
         "transport" : "aereoRM_CT"
