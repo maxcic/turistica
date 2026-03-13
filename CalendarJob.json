@@ -214,12 +214,21 @@
         "shift" : "f"
       },
       "2026-03-27" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : -60,
+        "exitTime" : "14:42",
         "shift" : "f"
       },
       "2026-03-30" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 240,
+        "exitTime" : "19:42",
         "shift" : "f"
       },
       "2026-03-31" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 60,
+        "exitTime" : "16:42",
         "shift" : "ds",
         "transport" : "aereoCT_RM"
       },
