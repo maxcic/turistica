@@ -383,6 +383,7 @@
   },
   "riepilogoFerieSettings" : {
     "ferieMassimali" : {
+      "2025" : 35,
       "2026" : 7
     },
     "festivitaSoppresse" : {
