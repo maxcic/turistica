@@ -96,30 +96,7 @@
       "2026-03-05": { "shift": "f" },
       "2026-03-06": { "shift": "f" },
       "2026-03-19": { "shift": "f" },
-      "2026-03-20": { "shift": "f" },
-
-      "2026-03-16": {
-        "transport": "busCT_RM"
-      },
-      "2026-03-18": {
-        "transport": "busRM_CT"
-      },
-      "2026-03-31": {
-        "shift": "f",
-        "transport": "aereoCT_RM"
-      },
-      "2026-04-17": {
-        "transport": "aereoRM_CT"
-      },
-      "2026-04-19": {
-        "transport": "trenoCT_RM"
-      },
-      "2026-04-30": {
-        "transport": "aereoRM_CT"
-      },
-      "2026-05-03": {
-        "transport": "trenoCT_RM"
-      }
+      "2026-03-20": { "shift": "f" }
 
     }
   }
