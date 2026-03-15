@@ -257,7 +257,11 @@
         "shift" : "sw"
       },
       "2026-03-16" : {
-        "shift" : "sw"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "sw",
+        "transport" : "busCT_RM"
       },
       "2026-03-17" : {
         "entryTime" : "08:00",
@@ -266,9 +270,16 @@
         "shift" : "c"
       },
       "2026-03-18" : {
-        "shift" : "p"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "p",
+        "transport" : "busRM_CT"
       },
       "2026-03-19" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
         "shift" : "f"
       },
       "2026-03-20" : {
@@ -293,7 +304,11 @@
         "shift" : "f"
       },
       "2026-03-31" : {
-        "shift" : "f"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "f",
+        "transport" : "aereoCT_RM"
       },
       "2026-04-01" : {
         "shift" : "f"
@@ -332,7 +347,17 @@
         "shift" : "p"
       },
       "2026-04-17" : {
-        "shift" : "p"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "p",
+        "transport" : "aereoRM_CT"
+      },
+      "2026-04-19" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "transport" : "trenoCT_RM"
       },
       "2026-04-20" : {
         "shift" : "p"
@@ -359,7 +384,17 @@
         "shift" : "p"
       },
       "2026-04-30" : {
-        "shift" : "p"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "p",
+        "transport" : "aereoRM_CT"
+      },
+      "2026-05-03" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "transport" : "trenoCT_RM"
       },
       "2026-05-04" : {
         "entryTime" : "08:00",
