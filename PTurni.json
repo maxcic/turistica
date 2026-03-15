@@ -6,7 +6,8 @@
         "excessMinutes" : 0,
         "exitTime" : "15:42",
         "shift" : "AH"
-      }
+      },
+      "2024-02-06" : { "shift" : "CF" }
     }
   },
   "riepilogoFerieSettings" : {
