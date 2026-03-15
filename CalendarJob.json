@@ -310,6 +310,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "note" : "Prova\n",
         "shift" : "f",
         "transport" : "aereoCT_RM"
       },
