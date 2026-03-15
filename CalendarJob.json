@@ -295,6 +295,9 @@
         "shift" : "f"
       },
       "2026-03-26" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
         "shift" : "f"
       },
       "2026-03-27" : {
@@ -323,7 +326,8 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "shift" : "fs"
+        "shift" : "fs",
+        "transport" : "aereoRM_CT"
       },
       "2026-04-08" : {
         "shift" : "p"
