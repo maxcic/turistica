@@ -362,22 +362,29 @@
         "shift" : "p"
       },
       "2026-05-04" : {
-        "shift" : "p"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-05-12" : {
-        "shift" : "p"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-05-20" : {
-        "shift" : "p"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-05-28" : {
-        "shift" : "p"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-05-29" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "pp"
+        "exitTime" : "15:42"
       }
     }
   },
