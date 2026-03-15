@@ -260,6 +260,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "note" : "Itabus",
         "shift" : "sw",
         "transport" : "busCT_RM"
       },
@@ -273,6 +274,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "note" : "Itabus",
         "shift" : "p",
         "transport" : "busRM_CT"
       },
@@ -310,7 +312,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "note" : "Prova\n",
+        "note" : "Partiamo Tutti\n",
         "shift" : "f",
         "transport" : "aereoCT_RM"
       },
@@ -318,6 +320,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "note" : "Treno mamma",
         "shift" : "f",
         "transport" : "trenoCT_RM"
       },
@@ -331,12 +334,14 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "note" : "Treno mamma\n",
         "transport" : "trenoRM_CT"
       },
       "2026-04-07" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "note" : "Rientro famiglia",
         "shift" : "f",
         "transport" : "aereoRM_CT"
       },
