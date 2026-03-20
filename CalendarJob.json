@@ -263,7 +263,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "note" : "Itabus",
+        "note" : "Itabus 20:15",
         "shift" : "sw",
         "transport" : "busCT_RM"
       },
@@ -274,10 +274,10 @@
         "shift" : "c"
       },
       "2026-03-18" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Itabus",
+        "entryTime" : "07:03",
+        "excessMinutes" : 93,
+        "exitTime" : "16:18",
+        "note" : "Itabus 19:30",
         "shift" : "p",
         "transport" : "busRM_CT"
       },
@@ -288,6 +288,9 @@
         "shift" : "f"
       },
       "2026-03-20" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
         "shift" : "f"
       },
       "2026-03-23" : {
@@ -315,7 +318,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "note" : "Partiamo Tutti\n",
+        "note" : "Partiamo Tutti 15:00\n",
         "shift" : "f",
         "transport" : "aereoCT_RM"
       },
@@ -323,7 +326,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "note" : "Treno mamma",
+        "note" : "Treno mamma 8:52",
         "shift" : "f",
         "transport" : "trenoCT_RM"
       },
@@ -337,14 +340,14 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "note" : "Treno mamma\n",
+        "note" : "Treno mamma 20:51\n",
         "transport" : "trenoRM_CT"
       },
       "2026-04-07" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "note" : "Rientro famiglia",
+        "note" : "Rientro famiglia 9:55",
         "shift" : "f",
         "transport" : "aereoRM_CT"
       },
@@ -373,6 +376,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "note" : "17:45",
         "shift" : "p",
         "transport" : "aereoRM_CT"
       },
@@ -380,6 +384,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "note" : "20:24",
         "transport" : "trenoCT_RM"
       },
       "2026-04-20" : {
@@ -410,6 +415,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "note" : "18:35",
         "shift" : "p",
         "transport" : "aereoRM_CT"
       },
@@ -417,6 +423,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "note" : "20:24",
         "transport" : "trenoRM_CT"
       }
     }
