@@ -228,8 +228,8 @@
       },
       "2026-03-02" : {
         "entryTime" : "08:00",
-        "excessMinutes" : 60,
-        "exitTime" : "16:42",
+        "excessMinutes" : 54,
+        "exitTime" : "16:36",
         "shift" : "f"
       },
       "2026-03-03" : {
@@ -423,9 +423,15 @@
         "exitTime" : "15:42"
       },
       "2026-04-27" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
         "shift" : "p"
       },
       "2026-04-28" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
         "shift" : "p"
       },
       "2026-04-29" : {
@@ -448,6 +454,22 @@
         "exitTime" : "15:42",
         "note" : "20:24",
         "transport" : "trenoRM_CT"
+      },
+      "2026-05-08" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
+      },
+      "2026-05-21" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
+      },
+      "2026-05-22" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "gela" : true
       }
     }
   },
