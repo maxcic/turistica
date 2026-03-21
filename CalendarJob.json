@@ -426,6 +426,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "gela" : true,
         "shift" : "p"
       },
       "2026-04-28" : {
