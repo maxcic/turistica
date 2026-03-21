@@ -327,6 +327,7 @@
         "excessMinutes" : 0,
         "exitTime" : "15:42",
         "note" : "Treno mamma 8:52",
+        "schoolHolidays" : true,
         "shift" : "f",
         "transport" : "trenoCT_RM"
       },
@@ -341,7 +342,6 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "schoolHolidays" : true,
         "shift" : "f"
       },
       "2026-04-06" : {
@@ -367,6 +367,11 @@
       },
       "2026-04-10" : {
         "shift" : "p"
+      },
+      "2026-04-11" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-04-13" : {
         "shift" : "p"
@@ -413,8 +418,7 @@
       "2026-04-25" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "schoolHolidays" : true
+        "exitTime" : "15:42"
       },
       "2026-04-27" : {
         "shift" : "p"
@@ -426,7 +430,6 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "schoolHolidays" : true,
         "shift" : "p"
       },
       "2026-04-30" : {
@@ -434,7 +437,6 @@
         "excessMinutes" : 0,
         "exitTime" : "15:42",
         "note" : "18:35",
-        "schoolHolidays" : true,
         "shift" : "p",
         "transport" : "aereoRM_CT"
       },
