@@ -410,6 +410,12 @@
       "2026-04-24" : {
         "shift" : "p"
       },
+      "2026-04-25" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "schoolHolidays" : true
+      },
       "2026-04-27" : {
         "shift" : "p"
       },
