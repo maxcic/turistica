@@ -306,14 +306,9 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "note" : "Vacanze Scuola",
         "shift" : "f"
       },
       "2026-03-27" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Vacanze Scuola",
         "shift" : "f"
       },
       "2026-03-30" : {
@@ -343,6 +338,10 @@
         "shift" : "f"
       },
       "2026-04-03" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "schoolHolidays" : true,
         "shift" : "f"
       },
       "2026-04-06" : {
@@ -397,10 +396,6 @@
         "transport" : "trenoCT_RM"
       },
       "2026-04-20" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Vacanze Scuola",
         "shift" : "p"
       },
       "2026-04-21" : {
@@ -416,10 +411,6 @@
         "shift" : "p"
       },
       "2026-04-27" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Vacanze Scuola",
         "shift" : "p"
       },
       "2026-04-28" : {
@@ -429,12 +420,15 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "schoolHolidays" : true,
         "shift" : "p"
       },
       "2026-04-30" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "note" : "18:35",
+        "schoolHolidays" : true,
         "shift" : "p",
         "transport" : "aereoRM_CT"
       },
@@ -444,18 +438,6 @@
         "exitTime" : "15:42",
         "note" : "20:24",
         "transport" : "trenoRM_CT"
-      },
-      "2026-05-22" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Vacanze Scuola"
-      },
-      "2026-05-29" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Vacanze Scuola"
       }
     }
   },
