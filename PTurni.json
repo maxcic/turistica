@@ -114,7 +114,110 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "gela" : true
+        "gela" : true,
+        "shift" : "H"
+      },
+      "2026-04-08" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "f"
+      },
+      "2026-04-09" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "f"
+      },
+      "2026-04-10" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "ds"
+      },
+      "2026-04-13" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "sw"
+      },
+      "2026-04-14" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "p"
+      },
+      "2026-04-15" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "p"
+      },
+      "2026-04-16" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "sw"
+      },
+      "2026-04-17" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "ds"
+      },
+      "2026-04-20" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "sw"
+      },
+      "2026-04-21" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "p"
+      },
+      "2026-04-22" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "p"
+      },
+      "2026-04-23" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "p"
+      },
+      "2026-04-24" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "sw"
+      },
+      "2026-04-27" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "sw"
+      },
+      "2026-04-28" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "p"
+      },
+      "2026-04-29" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "p"
+      },
+      "2026-04-30" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "sw"
       }
     }
   }
