@@ -442,27 +442,23 @@
       "2026-04-27" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "p"
+        "exitTime" : "15:42"
       },
       "2026-04-28" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "p"
+        "exitTime" : "15:42"
       },
       "2026-04-29" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "p"
+        "exitTime" : "15:42"
       },
       "2026-04-30" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
         "note" : "18:35",
-        "shift" : "p",
         "transport" : "aereoRM_CT"
       },
       "2026-05-03" : {
