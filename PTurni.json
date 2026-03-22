@@ -96,7 +96,6 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "schoolHolidays" : true,
         "shift" : "sw"
       },
       "2026-04-02" : {
