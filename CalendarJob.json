@@ -541,10 +541,30 @@
       "2026-05-29" : {
         "shift" : "p"
       },
+      "2026-06-23" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "fs",
+        "transport" : "busRM_CT"
+      },
+      "2026-06-24" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "f"
+      },
+      "2026-06-25" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "AH"
+      },
       "2026-06-26" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "gela" : true,
         "shift" : "p"
       }
     }
