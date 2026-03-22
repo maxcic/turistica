@@ -71,7 +71,10 @@
         "shift" : "p"
       },
       "2026-03-26" : {
-        "shift" : "sw"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "H"
       },
       "2026-03-27" : {
         "entryTime" : "08:00",
@@ -93,7 +96,20 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "schoolHolidays" : true
+        "schoolHolidays" : true,
+        "shift" : "sw"
+      },
+      "2026-04-02" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "H"
+      },
+      "2026-04-03" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "H"
       }
     }
   }
