@@ -109,6 +109,12 @@
         "excessMinutes" : 0,
         "exitTime" : "15:42",
         "shift" : "H"
+      },
+      "2026-04-07" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "gela" : true
       }
     }
   }
