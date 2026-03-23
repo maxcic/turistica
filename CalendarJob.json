@@ -264,8 +264,7 @@
         "excessMinutes" : 0,
         "exitTime" : "15:42",
         "note" : "Itabus 20:15",
-        "shift" : "sw",
-        "transport" : "busCT_RM"
+        "shift" : "sw"
       },
       "2026-03-17" : {
         "entryTime" : "08:00",
@@ -278,8 +277,7 @@
         "excessMinutes" : 93,
         "exitTime" : "16:18",
         "note" : "Itabus 19:30",
-        "shift" : "p",
-        "transport" : "busRM_CT"
+        "shift" : "p"
       },
       "2026-03-19" : {
         "entryTime" : "08:00",
