@@ -297,6 +297,9 @@
         "shift" : "f"
       },
       "2026-03-24" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
         "shift" : "f"
       },
       "2026-03-25" : {
