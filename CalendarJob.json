@@ -559,7 +559,8 @@
       "2026-06-26" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
-        "exitTime" : "15:42"
+        "exitTime" : "15:42",
+        "shift" : "ds"
       }
     }
   },
