@@ -330,7 +330,6 @@
         "excessMinutes" : 0,
         "exitTime" : "15:42",
         "note" : "Treno mamma 8:52",
-        "schoolHolidays" : true,
         "shift" : "f",
         "transport" : "trenoCT_RM"
       },
@@ -368,21 +367,18 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "schoolHolidays" : true,
         "shift" : "p"
       },
       "2026-04-09" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "schoolHolidays" : true,
         "shift" : "p"
       },
       "2026-04-10" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "schoolHolidays" : true,
         "shift" : "p"
       },
       "2026-04-11" : {
