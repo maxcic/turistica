@@ -301,13 +301,18 @@
         "shift" : "f"
       },
       "2026-03-25" : {
-        "shift" : "f"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "shift" : "f",
+        "transport" : "trenoCT_RM"
       },
       "2026-03-26" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "shift" : "f"
+        "shift" : "f",
+        "transport" : "busCT_RM"
       },
       "2026-03-27" : {
         "shift" : "f"
@@ -415,7 +420,8 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "shift" : "p"
+        "shift" : "p",
+        "transport" : "busCT_RM"
       },
       "2026-04-21" : {
         "shift" : "p"
