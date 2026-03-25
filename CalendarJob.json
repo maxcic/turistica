@@ -418,8 +418,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "shift" : "p",
-        "transport" : "busCT_RM"
+        "shift" : "p"
       },
       "2026-04-21" : {
         "shift" : "p"
