@@ -549,6 +549,11 @@
       "2026-05-29" : {
         "shift" : "p"
       },
+      "2026-06-19" : {
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
+      },
       "2026-06-23" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
