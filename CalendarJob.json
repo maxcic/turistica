@@ -310,6 +310,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "schoolHolidays" : true,
         "shift" : "f"
       },
       "2026-03-27" : {
@@ -368,18 +369,21 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "gela" : true,
         "shift" : "p"
       },
       "2026-04-09" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "gela" : true,
         "shift" : "p"
       },
       "2026-04-10" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
+        "gela" : true,
         "shift" : "p"
       },
       "2026-04-11" : {
@@ -458,7 +462,8 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "shift" : "p"
+        "shift" : "p",
+        "transport" : "busCT_RM"
       },
       "2026-04-30" : {
         "entryTime" : "08:00",
