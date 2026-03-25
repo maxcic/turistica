@@ -310,7 +310,6 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "schoolHolidays" : true,
         "shift" : "f"
       },
       "2026-03-27" : {
