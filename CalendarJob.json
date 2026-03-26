@@ -320,9 +320,10 @@
         "exitTime" : "15:42"
       },
       "2026-03-26" : {
-        "entryTime" : "16:09",
-        "excessMinutes" : 414,
-        "exitTime" : "23:51"
+        "entryTime" : "17:07",
+        "excessMinutes" : -462,
+        "exitTime" : "00:52",
+        "shift" : "p"
       },
       "2026-03-27" : {
         "entryTime" : "08:00",
