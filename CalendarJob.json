@@ -252,26 +252,35 @@
         "exitTime" : "15:42"
       },
       "2026-03-09" : {
-        "shift" : "sw"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-03-10" : {
-        "shift" : "sw"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-03-11" : {
-        "shift" : "sw"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-03-12" : {
-        "shift" : "sw"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-03-13" : {
-        "shift" : "sw"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42"
       },
       "2026-03-16" : {
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "note" : "Itabus 20:15",
-        "shift" : "sw"
+        "note" : "Itabus 20:15"
       },
       "2026-03-17" : {
         "entryTime" : "08:00",
@@ -280,11 +289,10 @@
         "shift" : "c"
       },
       "2026-03-18" : {
-        "entryTime" : "07:03",
-        "excessMinutes" : 93,
-        "exitTime" : "16:18",
-        "note" : "Itabus 19:30",
-        "shift" : "p"
+        "entryTime" : "08:00",
+        "excessMinutes" : 0,
+        "exitTime" : "15:42",
+        "note" : "Itabus 19:30"
       },
       "2026-03-19" : {
         "entryTime" : "08:00",
@@ -365,7 +373,6 @@
         "excessMinutes" : 0,
         "exitTime" : "15:42",
         "note" : "Rientro famiglia 9:55",
-        "shift" : "fs",
         "transport" : "aereoRM_CT"
       },
       "2026-04-08" : {
