@@ -1,605 +1,225 @@
 {
-  "data" : {
-    "Francesco" : {
-      "2024-02-06" : {
-        "shift" : "CF"
+  "data": {
+    "Francesco": {
+      "2024-02-06": {
+        "shift": "CF"
       },
-      "2024-06-27" : {
-        "shift" : "CF"
+      "2024-06-27": {
+        "shift": "CF"
       },
-      "2024-07-22" : {
-        "shift" : "AH"
+      "2024-07-22": {
+        "shift": "AH"
       },
-      "2024-07-23" : {
-        "shift" : "AH"
+      "2024-07-23": {
+        "shift": "AH"
       },
-      "2024-07-24" : {
-        "shift" : "AH"
+      "2024-07-24": {
+        "shift": "AH"
       },
-      "2024-07-25" : {
-        "shift" : "AH"
+      "2024-07-25": {
+        "shift": "AH"
       },
-      "2024-07-29" : {
-        "shift" : "AH"
+      "2024-07-29": {
+        "shift": "AH"
       },
-      "2024-07-30" : {
-        "shift" : "AH"
+      "2024-07-30": {
+        "shift": "AH"
       },
-      "2024-07-31" : {
-        "shift" : "AH"
+      "2024-07-31": {
+        "shift": "AH"
       },
-      "2024-08-01" : {
-        "shift" : "AH"
+      "2024-08-01": {
+        "shift": "AH"
       },
-      "2024-08-05" : {
-        "shift" : "AH"
+      "2024-08-05": {
+        "shift": "AH"
       },
-      "2024-08-06" : {
-        "shift" : "AH"
+      "2024-08-06": {
+        "shift": "AH"
       },
-      "2024-08-07" : {
-        "shift" : "AH"
+      "2024-08-07": {
+        "shift": "AH"
       },
-      "2024-08-08" : {
-        "shift" : "AH"
+      "2024-08-08": {
+        "shift": "AH"
       },
-      "2024-08-09" : {
-        "shift" : "AH"
+      "2024-08-09": {
+        "shift": "AH"
       },
-      "2024-08-13" : {
-        "shift" : "AH"
+      "2024-08-13": {
+        "shift": "AH"
       },
-      "2024-08-14" : {
-        "shift" : "AH"
+      "2024-08-14": {
+        "shift": "AH"
       },
-      "2024-08-20" : {
-        "shift" : "AH"
+      "2024-08-20": {
+        "shift": "AH"
       },
-      "2024-08-21" : {
-        "shift" : "AH"
+      "2024-08-21": {
+        "shift": "AH"
       },
-      "2024-08-22" : {
-        "shift" : "AH"
+      "2024-08-22": {
+        "shift": "AH"
       },
-      "2024-08-23" : {
-        "shift" : "AH"
+      "2024-08-23": {
+        "shift": "AH"
       },
-      "2024-08-24" : {
-        "shift" : "AH"
+      "2024-08-24": {
+        "shift": "AH"
       },
-      "2024-08-25" : {
-        "shift" : "AH"
+      "2024-08-25": {
+        "shift": "AH"
       },
-      "2024-08-26" : {
-        "shift" : "AH"
+      "2024-08-26": {
+        "shift": "AH"
       },
-      "2024-08-27" : {
-        "shift" : "AH"
+      "2024-08-27": {
+        "shift": "AH"
       },
-      "2024-08-29" : {
-        "shift" : "AH"
+      "2024-08-29": {
+        "shift": "AH"
       },
-      "2024-08-30" : {
-        "shift" : "AH"
+      "2024-08-30": {
+        "shift": "AH"
       },
-      "2025-02-04" : {
-        "shift" : "CF"
+      "2025-02-04": {
+        "shift": "CF"
       },
-      "2025-02-06" : {
-        "shift" : "CF"
+      "2025-02-06": {
+        "shift": "CF"
       },
-      "2025-02-24" : {
-        "shift" : "f"
+      "2025-08-19": {
+        "shift": "AH"
       },
-      "2025-02-25" : {
-        "shift" : "f"
+      "2025-08-20": {
+        "shift": "AH"
       },
-      "2025-02-26" : {
-        "shift" : "f"
+      "2025-08-21": {
+        "shift": "AH"
       },
-      "2025-02-27" : {
-        "shift" : "f"
+      "2025-08-22": {
+        "shift": "AH"
       },
-      "2025-02-28" : {
-        "shift" : "f"
-      },
-      "2025-06-25" : {
-        "shift" : "f"
-      },
-      "2025-06-26" : {
-        "shift" : "f"
-      },
-      "2025-06-27" : {
-        "shift" : "f"
-      },
-      "2025-06-30" : {
-        "shift" : "f"
-      },
-      "2025-07-01" : {
-        "shift" : "f"
-      },
-      "2025-07-02" : {
-        "shift" : "f"
-      },
-      "2025-07-03" : {
-        "shift" : "f"
-      },
-      "2025-07-04" : {
-        "shift" : "f"
-      },
-      "2025-07-07" : {
-        "shift" : "f"
-      },
-      "2025-07-08" : {
-        "shift" : "f"
-      },
-      "2025-07-09" : {
-        "shift" : "f"
-      },
-      "2025-07-30" : {
-        "shift" : "f"
-      },
-      "2025-07-31" : {
-        "shift" : "f"
-      },
-      "2025-08-19" : {
-        "shift" : "AH"
-      },
-      "2025-08-20" : {
-        "shift" : "AH"
-      },
-      "2025-08-21" : {
-        "shift" : "AH"
-      },
-      "2025-08-22" : {
-        "shift" : "AH"
-      },
-      "2025-08-26" : {
-        "shift" : "AH"
-      },
-      "2025-08-27" : {
-        "shift" : "AH"
-      },
-      "2025-08-28" : {
-        "shift" : "AH"
-      },
-      "2025-08-29" : {
-        "shift" : "AH"
-      },
-      "2025-09-02" : {
-        "shift" : "AH"
-      },
-      "2025-09-03" : {
-        "shift" : "AH"
-      },
-      "2025-09-04" : {
-        "shift" : "AH"
-      },
-      "2025-09-05" : {
-        "shift" : "AH"
-      },
-      "2025-09-09" : {
-        "shift" : "AH"
-      },
-      "2025-09-10" : {
-        "shift" : "AH"
-      },
-      "2025-09-11" : {
-        "shift" : "AH"
-      },
-      "2025-09-12" : {
-        "shift" : "AH"
-      },
-      "2025-09-16" : {
-        "shift" : "AH"
-      },
-      "2025-09-17" : {
-        "shift" : "AH"
-      },
-      "2025-09-18" : {
-        "shift" : "AH"
-      },
-      "2025-09-19" : {
-        "shift" : "AH"
-      },
-      "2025-10-22" : {
-        "shift" : "f"
-      },
-      "2025-10-23" : {
-        "shift" : "f"
-      },
-      "2025-10-24" : {
-        "shift" : "f"
-      },
-      "2025-12-15" : {
-        "shift" : "CF"
-      },
-      "2025-12-22" : {
-        "shift" : "f"
-      },
-      "2025-12-23" : {
-        "shift" : "f"
-      },
-      "2025-12-24" : {
-        "shift" : "f"
-      },
-      "2025-12-30" : {
-        "shift" : "CF"
-      },
-      "2026-03-02" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-03" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-04" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-05" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-06" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-09" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-10" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-11" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-12" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-13" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-16" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Itabus 20:15"
-      },
-      "2026-03-17" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "c"
-      },
-      "2026-03-18" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Itabus 19:30"
-      },
-      "2026-03-19" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-20" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-23" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-24" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-25" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-26" : {
-        "entryTime" : "17:07",
-        "excessMinutes" : -462,
-        "exitTime" : "00:52",
-        "shift" : "p"
-      },
-      "2026-03-27" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "p"
-      },
-      "2026-03-30" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-03-31" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Partiamo Tutti 15:00\n",
-        "transport" : "aereoCT_RM"
-      },
-      "2026-04-01" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Treno mamma 8:52",
-        "transport" : "trenoCT_RM"
-      },
-      "2026-04-02" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Vacanze Scuola",
-        "schoolHolidays" : true
-      },
-      "2026-04-03" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "schoolHolidays" : true
-      },
-      "2026-04-06" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Treno mamma 20:51\n",
-        "transport" : "trenoRM_CT"
-      },
-      "2026-04-07" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Rientro famiglia 9:55",
-        "transport" : "aereoRM_CT"
-      },
-      "2026-04-08" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "gela" : true,
-        "shift" : "p"
-      },
-      "2026-04-09" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "gela" : true,
-        "shift" : "p"
-      },
-      "2026-04-10" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "gela" : true,
-        "shift" : "p"
-      },
-      "2026-04-11" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-04-13" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Visita Mattia Catania archeologica \n",
-        "schoolHolidays" : true,
-        "shift" : "p"
-      },
-      "2026-04-14" : {
-        "shift" : "p"
-      },
-      "2026-04-15" : {
-        "shift" : "p"
-      },
-      "2026-04-16" : {
-        "shift" : "p"
-      },
-      "2026-04-17" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "17:45",
-        "shift" : "p",
-        "transport" : "aereoRM_CT"
-      },
-      "2026-04-19" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "20:24",
-        "transport" : "trenoCT_RM"
-      },
-      "2026-04-20" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "p"
-      },
-      "2026-04-21" : {
-        "shift" : "p"
-      },
-      "2026-04-22" : {
-        "shift" : "p"
-      },
-      "2026-04-23" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "Gita Marco\n",
-        "schoolHolidays" : true,
-        "shift" : "p"
-      },
-      "2026-04-24" : {
-        "shift" : "p"
-      },
-      "2026-04-25" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-04-27" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "p"
-      },
-      "2026-04-28" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "p"
-      },
-      "2026-04-29" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "p"
-      },
-      "2026-04-30" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "18:35",
-        "shift" : "p",
-        "transport" : "aereoRM_CT"
-      },
-      "2026-05-03" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "note" : "20:24",
-        "transport" : "trenoCT_RM"
-      },
-      "2026-05-04" : {
-        "shift" : "p"
-      },
-      "2026-05-05" : {
-        "shift" : "p"
-      },
-      "2026-05-06" : {
-        "shift" : "p"
-      },
-      "2026-05-07" : {
-        "shift" : "p"
-      },
-      "2026-05-08" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "p"
-      },
-      "2026-05-11" : {
-        "shift" : "p"
-      },
-      "2026-05-12" : {
-        "shift" : "p"
-      },
-      "2026-05-13" : {
-        "shift" : "p"
-      },
-      "2026-05-14" : {
-        "shift" : "p"
-      },
-      "2026-05-15" : {
-        "shift" : "p"
-      },
-      "2026-05-18" : {
-        "shift" : "p"
-      },
-      "2026-05-19" : {
-        "shift" : "p"
-      },
-      "2026-05-20" : {
-        "shift" : "p"
-      },
-      "2026-05-21" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "p"
-      },
-      "2026-05-22" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42",
-        "shift" : "p"
-      },
-      "2026-05-25" : {
-        "shift" : "p"
-      },
-      "2026-05-26" : {
-        "shift" : "p"
-      },
-      "2026-05-27" : {
-        "shift" : "p"
-      },
-      "2026-05-28" : {
-        "shift" : "p"
-      },
-      "2026-05-29" : {
-        "shift" : "p"
-      },
-      "2026-06-19" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-06-23" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-06-24" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-06-25" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
-      },
-      "2026-06-26" : {
-        "entryTime" : "08:00",
-        "excessMinutes" : 0,
-        "exitTime" : "15:42"
+      "2025-08-26": {
+        "shift": "AH"
+      },
+      "2025-08-27": {
+        "shift": "AH"
+      },
+      "2025-08-28": {
+        "shift": "AH"
+      },
+      "2025-08-29": {
+        "shift": "AH"
+      },
+      "2025-09-02": {
+        "shift": "AH"
+      },
+      "2025-09-03": {
+        "shift": "AH"
+      },
+      "2025-09-04": {
+        "shift": "AH"
+      },
+      "2025-09-05": {
+        "shift": "AH"
+      },
+      "2025-09-09": {
+        "shift": "AH"
+      },
+      "2025-09-10": {
+        "shift": "AH"
+      },
+      "2025-09-11": {
+        "shift": "AH"
+      },
+      "2025-09-12": {
+        "shift": "AH"
+      },
+      "2025-09-16": {
+        "shift": "AH"
+      },
+      "2025-09-17": {
+        "shift": "AH"
+      },
+      "2025-09-18": {
+        "shift": "AH"
+      },
+      "2025-09-19": {
+        "shift": "AH"
+      },
+      "2025-12-15": {
+        "shift": "CF"
+      },
+      "2025-12-30": {
+        "shift": "CF"
+      },
+      "2026-03-31": {
+        "entryTime": "08:00",
+        "excessMinutes": 0,
+        "exitTime": "15:42",
+        "note": "Partiamo Tutti 15:00\n",
+        "transport": "aereoCT_RM"
+      },
+      "2026-04-01": {
+        "entryTime": "08:00",
+        "excessMinutes": 0,
+        "exitTime": "15:42",
+        "note": "Treno mamma 8:52",
+        "transport": "trenoCT_RM"
+      },
+      "2026-04-06": {
+        "entryTime": "08:00",
+        "excessMinutes": 0,
+        "exitTime": "15:42",
+        "note": "Treno mamma 20:51\n",
+        "transport": "trenoRM_CT"
+      },
+      "2026-04-07": {
+        "entryTime": "08:00",
+        "excessMinutes": 0,
+        "exitTime": "15:42",
+        "note": "Rientro famiglia 9:55",
+        "transport": "aereoRM_CT"
+      },
+      "2026-04-17": {
+        "entryTime": "08:00",
+        "excessMinutes": 0,
+        "exitTime": "15:42",
+        "note": "17:45",
+        "transport": "aereoRM_CT"
+      },
+      "2026-04-19": {
+        "entryTime": "08:00",
+        "excessMinutes": 0,
+        "exitTime": "15:42",
+        "note": "20:24",
+        "transport": "trenoCT_RM"
+      },
+      "2026-04-30": {
+        "entryTime": "08:00",
+        "excessMinutes": 0,
+        "exitTime": "15:42",
+        "note": "18:35",
+        "transport": "aereoRM_CT"
+      },
+      "2026-05-03": {
+        "entryTime": "08:00",
+        "excessMinutes": 0,
+        "exitTime": "15:42",
+        "note": "20:24",
+        "transport": "trenoCT_RM"
       }
     }
   },
-  "riepilogoFerieSettings" : {
-    "ferieMassimali" : {
-      "2025" : 35,
-      "2026" : 7
+  "riepilogoFerieSettings": {
+    "ferieMassimali": {
+      "2025": 35,
+      "2026": 7
     },
-    "festivitaSoppresse" : {
-      "2025" : 4,
-      "2026" : 1
+    "festivitaSoppresse": {
+      "2025": 4,
+      "2026": 1
     }
   }
 }
