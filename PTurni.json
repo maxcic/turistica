@@ -127,7 +127,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "shift" : "f"
+        "shift" : "sw"
       },
       "2026-04-10" : {
         "entryTime" : "08:00",
@@ -187,7 +187,7 @@
         "entryTime" : "08:00",
         "excessMinutes" : 0,
         "exitTime" : "15:42",
-        "shift" : "p"
+        "shift" : "sw"
       },
       "2026-04-24" : {
         "entryTime" : "08:00",
