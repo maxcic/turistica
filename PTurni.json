@@ -5,7 +5,7 @@
   "bancaOreInizialeHours" : 23,
   "bancaOreInizialeMinutesPart" : 51,
   "decurtazioniBancaOreByMonth" : {
-
+    "2026-04" : "00:00"
   },
   "defaultDailyWorkMinutes" : 462,
   "ferieTotaliByYear" : {
@@ -163,19 +163,10 @@
   },
   "smartWorkingMonthlyTarget" : 10,
   "standardWorkMinutesByDate" : {
-    "2026-03-30" : 462,
-    "2026-03-31" : 462
+    "2026-04-04" : 462
   },
   "workScheduleByDay" : {
-    "2026-03-30" : {
-      "entry" : "08:00",
-      "exit" : "15:42"
-    },
-    "2026-03-31" : {
-      "entry" : "08:00",
-      "exit" : "15:42"
-    },
-    "2026-04-03" : {
+    "2026-04-04" : {
       "entry" : "08:00",
       "exit" : "15:42"
     }
