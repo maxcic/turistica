@@ -2,8 +2,8 @@
   "accrualStartDateByYear" : {
 
   },
-  "bancaOreInizialeHours" : 0,
-  "bancaOreInizialeMinutesPart" : 0,
+  "bancaOreInizialeHours" : 23,
+  "bancaOreInizialeMinutesPart" : 51,
   "decurtazioniBancaOreByMonth" : {
 
   },
@@ -163,9 +163,21 @@
   },
   "smartWorkingMonthlyTarget" : 10,
   "standardWorkMinutesByDate" : {
-
+    "2026-03-30" : 462,
+    "2026-03-31" : 462
   },
   "workScheduleByDay" : {
-
+    "2026-03-30" : {
+      "entry" : "08:00",
+      "exit" : "15:42"
+    },
+    "2026-03-31" : {
+      "entry" : "08:00",
+      "exit" : "15:42"
+    },
+    "2026-04-03" : {
+      "entry" : "08:00",
+      "exit" : "15:42"
+    }
   }
 }
