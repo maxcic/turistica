@@ -5,7 +5,7 @@
   "bancaOreInizialeHours" : 23,
   "bancaOreInizialeMinutesPart" : 51,
   "decurtazioniBancaOreByMonth" : {
-    "2026-04" : "00:00"
+
   },
   "defaultDailyWorkMinutes" : 462,
   "ferieTotaliByYear" : {
@@ -17,10 +17,7 @@
     "2026" : 4
   },
   "mezziByDate" : {
-    "2026-03-12" : "busRM_CT",
-    "2026-03-16" : "trenoCT_RM",
-    "2026-03-31" : "aereoCT_RM",
-    "2026-04-07" : "aereoRM_CT"
+
   },
   "noteByDate" : {
 
@@ -164,14 +161,11 @@
     "2026-04-29" : "p",
     "2026-04-30" : "sw"
   },
-  "smartWorkingMonthlyTarget" : 10,
+  "smartWorkingMonthlyTarget" : 8,
   "standardWorkMinutesByDate" : {
-    "2026-04-04" : 462
+
   },
   "workScheduleByDay" : {
-    "2026-04-04" : {
-      "entry" : "08:00",
-      "exit" : "15:42"
-    }
+
   }
 }
