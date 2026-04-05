@@ -17,7 +17,10 @@
     "2026" : 4
   },
   "mezziByDate" : {
-
+    "2026-03-12" : "busRM_CT",
+    "2026-03-16" : "trenoCT_RM",
+    "2026-03-31" : "aereoCT_RM",
+    "2026-04-07" : "aereoRM_CT"
   },
   "noteByDate" : {
 
