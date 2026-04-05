@@ -1,6 +1,6 @@
 {
   "accrualStartDateByYear" : {
-
+    "2026" : "2026-04-04"
   },
   "bancaOreInizialeHours" : 0,
   "bancaOreInizialeMinutesPart" : 0,
@@ -9,10 +9,12 @@
   },
   "defaultDailyWorkMinutes" : 462,
   "ferieTotaliByYear" : {
-
+    "2025" : 0,
+    "2026" : 21
   },
   "festivitaTotaliByYear" : {
-
+    "2025" : 0,
+    "2026" : 3
   },
   "mezziByDate" : {
     "2026-04-17" : "aereoRM_CT",
@@ -26,6 +28,11 @@
 
   },
   "sigleByDate" : {
+    "2026-03-30" : "sw",
+    "2026-03-31" : "sw",
+    "2026-04-01" : "p",
+    "2026-04-02" : "p",
+    "2026-04-03" : "p",
     "2026-04-08" : "p",
     "2026-04-09" : "p",
     "2026-04-10" : "p",
