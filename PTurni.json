@@ -27,10 +27,10 @@
   "noteByDate" : {
     "2026-05-30" : "Lezione master da recuperare (ok)",
     "2026-06-06" : "Lezione master da recuperare (ok)",
-    "2026-06-13" : "Recuperare lezione master",
-    "2026-06-26" : "Recuperare lezione master",
+    "2026-06-13" : "Recuperare lezione master (ok)",
+    "2026-06-26" : "Recuperare lezione master (ok)",
     "2026-06-27" : "Recuperare lezione master",
-    "2026-07-02" : "Lezione master da recuperare"
+    "2026-07-02" : "Lezione master da recuperare (ok)"
   },
   "riposiCompensativiByDate" : {
     "2026-06-09" : "07:12"
@@ -220,12 +220,12 @@
     "2026-07-09" : "p",
     "2026-07-10" : "ds",
     "2026-07-13" : "sw",
-    "2026-07-14" : "p",
+    "2026-07-14" : "sw",
     "2026-07-15" : "p",
-    "2026-07-16" : "sw",
+    "2026-07-16" : "p",
     "2026-07-17" : "ds",
-    "2026-07-20" : "p",
-    "2026-07-21" : "sw",
+    "2026-07-20" : "sw",
+    "2026-07-21" : "p",
     "2026-07-22" : "p",
     "2026-07-23" : "sw",
     "2026-07-24" : "ds",
@@ -233,7 +233,11 @@
     "2026-07-28" : "H",
     "2026-07-29" : "sw",
     "2026-07-30" : "H",
-    "2026-07-31" : "ds"
+    "2026-07-31" : "ds",
+    "2026-08-03" : "sw",
+    "2026-08-07" : "sw",
+    "2026-08-10" : "sw",
+    "2026-08-11" : "sw"
   },
   "smartWorkingMonthlyTarget" : 8,
   "standardWorkMinutesByDate" : {
