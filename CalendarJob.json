@@ -19,7 +19,8 @@
   "imageByDate" : {
     "2026-07-16" : "day-image-2026-07-16.jpg",
     "2026-07-23" : "day-image-2026-07-23.jpg",
-    "2026-08-05" : "day-image-2026-08-05.jpg"
+    "2026-08-05" : "day-image-2026-08-05.jpg",
+    "2026-08-13" : "day-image-2026-08-13.jpg"
   },
   "mezziByDate" : {
     "2026-04-17" : "aereoRM_CT",
@@ -38,7 +39,8 @@
     "2026-07-04" : "aereoCT_RM",
     "2026-07-16" : "aereoRM_CT",
     "2026-07-23" : "aereoCT_RM",
-    "2026-08-05" : "aereoRM_CT"
+    "2026-08-05" : "aereoRM_CT",
+    "2026-08-13" : "aereoCT_RM"
   },
   "noteByDate" : {
     "2026-06-29" : "San Pietro e Paolo",
