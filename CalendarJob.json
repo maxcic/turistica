@@ -45,7 +45,8 @@
   },
   "noteByDate" : {
     "2026-06-29" : "San Pietro e Paolo",
-    "2026-07-29" : "Esame Mattia Cambridge"
+    "2026-07-29" : "Esame Mattia Cambridge",
+    "2026-10-06" : "Concorso SNA"
   },
   "riposiCompensativiByDate" : {
     "2026-05-07" : "07:12",
@@ -212,7 +213,7 @@
     "2026-10-01" : "p",
     "2026-10-02" : "p",
     "2026-10-05" : "sw",
-    "2026-10-06" : "sw",
+    "2026-10-06" : "c",
     "2026-10-07" : "sw",
     "2026-10-08" : "sw",
     "2026-10-09" : "sw",
