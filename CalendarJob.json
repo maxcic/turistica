@@ -41,7 +41,8 @@
     "2026-07-23" : "aereoCT_RM",
     "2026-08-03" : "trenoCT_RM",
     "2026-08-05" : "aereoRM_CT",
-    "2026-08-13" : "aereoCT_RM"
+    "2026-08-13" : "aereoCT_RM",
+    "2026-08-19" : "trenoRM_CT"
   },
   "noteByDate" : {
     "2026-06-29" : "San Pietro e Paolo",
