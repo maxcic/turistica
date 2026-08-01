@@ -5,7 +5,12 @@
   "bancaOreInizialeHours" : 16,
   "bancaOreInizialeMinutesPart" : 29,
   "competitionDetailsByDate" : {
-
+    "2026-10-06" : {
+      "city" : "CATANIA",
+      "competitionType" : "SNA",
+      "time" : "09:00",
+      "venue" : "Misterbianco"
+    }
   },
   "decurtazioniBancaOreByMonth" : {
 
@@ -59,7 +64,8 @@
     "2026-09-19" : "Seduta master",
     "2026-09-21" : "Corso Accrual",
     "2026-09-26" : "Seduta Master",
-    "2026-10-03" : "Matrimonio Giuseppe"
+    "2026-10-03" : "Matrimonio Giuseppe",
+    "2026-10-06" : "CONCORSO: SNA\nCittà: CATANIA\nSede: Misterbianco\nOrario: 09:00"
   },
   "noteCalendarDetailsByDate" : {
     "2026-09-19" : {
@@ -249,6 +255,7 @@
     "2026-10-02" : "p",
     "2026-10-03" : "E",
     "2026-10-05" : "sw",
+    "2026-10-06" : "c",
     "2026-10-07" : "sw",
     "2026-10-08" : "sw",
     "2026-10-09" : "sw",
