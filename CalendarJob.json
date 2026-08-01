@@ -261,6 +261,14 @@
     "2026-07-14" : 462,
     "2026-07-15" : 462
   },
+  "transportDetailsByDate" : {
+    "2026-08-05" : {
+      "arrivalTime" : "16",
+      "companyName" : "Ryanair",
+      "departureTime" : "15",
+      "traveler" : "Paola"
+    }
+  },
   "workScheduleByDay" : {
     "2026-05-04" : {
       "entry" : "07:35",
