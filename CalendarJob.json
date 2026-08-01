@@ -36,7 +36,6 @@
     "2026-07-04" : "aereoCT_RM",
     "2026-07-16" : "aereoRM_CT",
     "2026-07-23" : "aereoCT_RM",
-    "2026-08-03" : "trenoCT_RM",
     "2026-08-05" : "aereoRM_CT",
     "2026-08-13" : "aereoCT_RM",
     "2026-08-19" : "trenoRM_CT",
@@ -265,6 +264,8 @@
   "transportDetailsByDate" : {
     "2026-08-05" : {
       "arrivalTime" : "16:15",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:FCF1CB37-5E11-4745-B4C3-0A885879B4BB",
+      "checkInReminderEnabled" : true,
       "companyName" : "Ryanair",
       "departureTime" : "14:55",
       "flightNumber" : "FR4929",
@@ -272,8 +273,20 @@
         "Paola"
       ]
     },
+    "2026-08-13" : {
+      "arrivalTime" : "22:00",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:2A8BF58B-E8C4-47BE-983F-8B17B683D54C",
+      "checkInReminderEnabled" : true,
+      "companyName" : "Ryanair",
+      "departureTime" : "20:30",
+      "flightNumber" : "FR4860",
+      "travelers" : [
+        "Paola"
+      ]
+    },
     "2026-09-30" : {
       "arrivalTime" : "09:00",
+      "checkInReminderEnabled" : false,
       "companyName" : "Ryanair",
       "departureTime" : "09:00",
       "travelers" : [
