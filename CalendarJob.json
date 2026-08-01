@@ -39,7 +39,8 @@
     "2026-08-03" : "trenoCT_RM",
     "2026-08-05" : "aereoRM_CT",
     "2026-08-13" : "aereoCT_RM",
-    "2026-08-19" : "trenoRM_CT"
+    "2026-08-19" : "trenoRM_CT",
+    "2026-09-30" : "aereoCT_RM"
   },
   "noteByDate" : {
     "2026-06-29" : "San Pietro e Paolo",
@@ -267,6 +268,12 @@
       "companyName" : "Ryanair",
       "departureTime" : "15",
       "traveler" : "Paola"
+    },
+    "2026-09-30" : {
+      "arrivalTime" : "09:00",
+      "companyName" : "Ryanair",
+      "departureTime" : "09:00",
+      "traveler" : "Francesco"
     }
   },
   "workScheduleByDay" : {
