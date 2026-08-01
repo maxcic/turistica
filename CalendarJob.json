@@ -4,6 +4,9 @@
   },
   "bancaOreInizialeHours" : 16,
   "bancaOreInizialeMinutesPart" : 29,
+  "competitionDetailsByDate" : {
+
+  },
   "decurtazioniBancaOreByMonth" : {
 
   },
@@ -54,9 +57,23 @@
     "2026-06-29" : "San Pietro e Paolo",
     "2026-07-29" : "Esame Mattia Cambridge",
     "2026-09-19" : "Seduta master",
-    "2026-09-21" : "Accrual",
+    "2026-09-21" : "Corso Accrual",
     "2026-09-26" : "Seduta Master",
     "2026-10-03" : "Matrimonio Giuseppe"
+  },
+  "noteCalendarDetailsByDate" : {
+    "2026-09-19" : {
+      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:FFBEF2BD-2C8E-4EF2-B9B5-780F2C795578",
+      "time" : "08:00"
+    },
+    "2026-09-21" : {
+      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:76AB7C69-DABC-4BBD-B2E3-B4101AF6E9BA",
+      "time" : "08:00"
+    },
+    "2026-09-26" : {
+      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:37CF1C84-67A7-4CCB-B916-50A34FFAFF35",
+      "time" : "08:00"
+    }
   },
   "riposiCompensativiByDate" : {
     "2026-05-07" : "07:12",
