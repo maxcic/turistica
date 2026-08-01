@@ -18,6 +18,7 @@
   "defaultDailyWorkMinutes" : 462,
   "eventDetailsByDate" : {
     "2026-10-03" : {
+      "calendarChoice" : "Family",
       "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:03B7051E-91DA-4E51-80AF-E5DD993043B8",
       "reminderEnabled" : true,
       "time" : "09:00",
@@ -36,22 +37,6 @@
 
   },
   "mezziByDate" : {
-    "2026-04-17" : "aereoRM_CT",
-    "2026-04-19" : "trenoCT_RM",
-    "2026-04-30" : "aereoRM_CT",
-    "2026-05-03" : "trenoCT_RM",
-    "2026-05-06" : "aereoRM_CT",
-    "2026-05-10" : "aereoCT_RM",
-    "2026-05-14" : "aereoRM_CT",
-    "2026-05-17" : "aereoCT_RM",
-    "2026-05-27" : "aereoRM_CT",
-    "2026-06-07" : "busCT_RM",
-    "2026-06-10" : "aereoRM_CT",
-    "2026-06-12" : "aereoCT_RM",
-    "2026-06-29" : "aereoCT_RM",
-    "2026-07-04" : "aereoCT_RM",
-    "2026-07-16" : "aereoRM_CT",
-    "2026-07-23" : "aereoCT_RM",
     "2026-08-03" : "trenoCT_RM",
     "2026-08-05" : "aereoRM_CT",
     "2026-08-13" : "aereoCT_RM",
@@ -69,14 +54,17 @@
   },
   "noteCalendarDetailsByDate" : {
     "2026-09-19" : {
+      "calendarChoice" : "Family",
       "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:FFBEF2BD-2C8E-4EF2-B9B5-780F2C795578",
       "time" : "08:00"
     },
     "2026-09-21" : {
+      "calendarChoice" : "Family",
       "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:76AB7C69-DABC-4BBD-B2E3-B4101AF6E9BA",
       "time" : "08:00"
     },
     "2026-09-26" : {
+      "calendarChoice" : "Family",
       "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:37CF1C84-67A7-4CCB-B916-50A34FFAFF35",
       "time" : "08:00"
     }
@@ -295,51 +283,61 @@
   "transportDetailsByDate" : {
     "2026-08-03" : {
       "arrivalTime" : "17:58",
+      "checkInCalendarChoice" : "Personale",
       "checkInReminderEnabled" : false,
       "companyName" : "Trenitalia",
       "departureTime" : "08:52",
       "trainNumber" : "734",
+      "transportCalendarChoice" : "Family",
       "travelers" : [
         "Mamma"
       ]
     },
     "2026-08-05" : {
       "arrivalTime" : "16:15",
+      "checkInCalendarChoice" : "Personale",
       "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:FCF1CB37-5E11-4745-B4C3-0A885879B4BB",
       "checkInReminderEnabled" : true,
       "companyName" : "Ryanair",
       "departureTime" : "14:55",
       "flightNumber" : "FR4929",
+      "transportCalendarChoice" : "Family",
       "travelers" : [
         "Paola"
       ]
     },
     "2026-08-13" : {
       "arrivalTime" : "22:00",
+      "checkInCalendarChoice" : "Personale",
       "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:2A8BF58B-E8C4-47BE-983F-8B17B683D54C",
       "checkInReminderEnabled" : true,
       "companyName" : "Ryanair",
       "departureTime" : "20:30",
       "flightNumber" : "FR4860",
+      "transportCalendarChoice" : "Family",
       "travelers" : [
         "Paola"
       ]
     },
     "2026-08-19" : {
       "arrivalTime" : "17:09",
+      "checkInCalendarChoice" : "Personale",
       "checkInReminderEnabled" : false,
       "companyName" : "Trenitalia",
       "departureTime" : "08:00",
       "trainNumber" : "723",
+      "transportCalendarChoice" : "Family",
       "travelers" : [
         "Mamma"
       ]
     },
     "2026-09-30" : {
       "arrivalTime" : "09:00",
+      "checkInCalendarChoice" : "Personale",
       "checkInReminderEnabled" : false,
       "companyName" : "Ryanair",
       "departureTime" : "09:00",
+      "transportCalendarChoice" : "Family",
       "travelers" : [
         "Francesco"
       ]
