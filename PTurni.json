@@ -4,10 +4,16 @@
   },
   "bancaOreInizialeHours" : 23,
   "bancaOreInizialeMinutesPart" : 16,
+  "competitionDetailsByDate" : {
+
+  },
   "decurtazioniBancaOreByMonth" : {
 
   },
   "defaultDailyWorkMinutes" : 462,
+  "eventDetailsByDate" : {
+
+  },
   "ferieTotaliByYear" : {
     "2025" : 20,
     "2026" : 26
@@ -20,9 +26,7 @@
 
   },
   "mezziByDate" : {
-    "2026-05-10" : "aereoCT_RM",
-    "2026-05-17" : "aereoCT_RM",
-    "2026-05-30" : "aereoCT_RM"
+
   },
   "noteByDate" : {
     "2026-05-30" : "Lezione master da recuperare (ok)",
@@ -31,6 +35,9 @@
     "2026-06-26" : "Recuperare lezione master (ok)",
     "2026-06-27" : "Recuperare lezione master",
     "2026-07-02" : "Lezione master da recuperare (ok)"
+  },
+  "noteCalendarDetailsByDate" : {
+
   },
   "riposiCompensativiByDate" : {
     "2026-06-09" : "07:12",
@@ -62,6 +69,7 @@
     "2024-08-25" : "AH",
     "2024-08-26" : "AH",
     "2024-08-27" : "AH",
+    "2024-08-28" : "AH",
     "2024-08-29" : "AH",
     "2024-08-30" : "AH",
     "2025-02-04" : "CF",
@@ -263,6 +271,9 @@
   },
   "smartWorkingMonthlyTarget" : 8,
   "standardWorkMinutesByDate" : {
+
+  },
+  "transportDetailsByDate" : {
 
   },
   "workScheduleByDay" : {
