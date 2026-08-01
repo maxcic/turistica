@@ -267,13 +267,17 @@
       "arrivalTime" : "16",
       "companyName" : "Ryanair",
       "departureTime" : "15",
-      "traveler" : "Paola"
+      "travelers" : [
+        "Paola"
+      ]
     },
     "2026-09-30" : {
       "arrivalTime" : "09:00",
       "companyName" : "Ryanair",
       "departureTime" : "09:00",
-      "traveler" : "Francesco"
+      "travelers" : [
+        "Francesco"
+      ]
     }
   },
   "workScheduleByDay" : {
