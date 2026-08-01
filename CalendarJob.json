@@ -8,6 +8,14 @@
 
   },
   "defaultDailyWorkMinutes" : 462,
+  "eventDetailsByDate" : {
+    "2026-10-03" : {
+      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:03B7051E-91DA-4E51-80AF-E5DD993043B8",
+      "reminderEnabled" : true,
+      "time" : "09:00",
+      "title" : "Matrimonio Giuseppe"
+    }
+  },
   "ferieTotaliByYear" : {
     "2025" : 0,
     "2026" : 21
@@ -36,6 +44,7 @@
     "2026-07-04" : "aereoCT_RM",
     "2026-07-16" : "aereoRM_CT",
     "2026-07-23" : "aereoCT_RM",
+    "2026-08-03" : "trenoCT_RM",
     "2026-08-05" : "aereoRM_CT",
     "2026-08-13" : "aereoCT_RM",
     "2026-08-19" : "trenoRM_CT",
@@ -262,6 +271,16 @@
     "2026-07-15" : 462
   },
   "transportDetailsByDate" : {
+    "2026-08-03" : {
+      "arrivalTime" : "17:58",
+      "checkInReminderEnabled" : false,
+      "companyName" : "Trenitalia",
+      "departureTime" : "08:52",
+      "trainNumber" : "734",
+      "travelers" : [
+        "Mamma"
+      ]
+    },
     "2026-08-05" : {
       "arrivalTime" : "16:15",
       "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:FCF1CB37-5E11-4745-B4C3-0A885879B4BB",
@@ -282,6 +301,16 @@
       "flightNumber" : "FR4860",
       "travelers" : [
         "Paola"
+      ]
+    },
+    "2026-08-19" : {
+      "arrivalTime" : "17:09",
+      "checkInReminderEnabled" : false,
+      "companyName" : "Trenitalia",
+      "departureTime" : "08:00",
+      "trainNumber" : "723",
+      "travelers" : [
+        "Mamma"
       ]
     },
     "2026-09-30" : {
