@@ -264,9 +264,10 @@
   },
   "transportDetailsByDate" : {
     "2026-08-05" : {
-      "arrivalTime" : "16",
+      "arrivalTime" : "16:15",
       "companyName" : "Ryanair",
-      "departureTime" : "15",
+      "departureTime" : "14:55",
+      "flightNumber" : "FR4929",
       "travelers" : [
         "Paola"
       ]
