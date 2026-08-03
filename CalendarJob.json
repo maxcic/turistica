@@ -37,7 +37,6 @@
 
   },
   "mezziByDate" : {
-    "2026-08-03" : "trenoCT_RM",
     "2026-08-05" : "aereoRM_CT",
     "2026-08-13" : "aereoCT_RM",
     "2026-08-19" : "trenoRM_CT"
@@ -292,18 +291,6 @@
     "2026-08-03" : 462
   },
   "transportDetailsByDate" : {
-    "2026-08-03" : {
-      "arrivalTime" : "17:58",
-      "checkInCalendarChoice" : "Personale",
-      "checkInReminderEnabled" : false,
-      "companyName" : "Trenitalia",
-      "departureTime" : "08:52",
-      "trainNumber" : "734",
-      "transportCalendarChoice" : "Family",
-      "travelers" : [
-        "Mamma"
-      ]
-    },
     "2026-08-05" : {
       "arrivalTime" : "16:15",
       "checkInCalendarChoice" : "Personale",
