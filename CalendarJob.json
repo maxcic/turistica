@@ -37,7 +37,6 @@
 
   },
   "mezziByDate" : {
-    "2026-08-05" : "aereoRM_CT",
     "2026-08-13" : "aereoCT_RM",
     "2026-08-19" : "trenoRM_CT"
   },
@@ -292,19 +291,6 @@
     "2026-08-04" : 462
   },
   "transportDetailsByDate" : {
-    "2026-08-05" : {
-      "arrivalTime" : "16:15",
-      "checkInCalendarChoice" : "Personale",
-      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:FCF1CB37-5E11-4745-B4C3-0A885879B4BB",
-      "checkInReminderEnabled" : true,
-      "companyName" : "Ryanair",
-      "departureTime" : "14:55",
-      "flightNumber" : "FR4929",
-      "transportCalendarChoice" : "Family",
-      "travelers" : [
-        "Paola"
-      ]
-    },
     "2026-08-13" : {
       "arrivalTime" : "22:00",
       "checkInCalendarChoice" : "Personale",
