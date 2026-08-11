@@ -23,6 +23,13 @@
       "reminderEnabled" : true,
       "time" : "09:00",
       "title" : "Matrimonio Giuseppe"
+    },
+    "2026-10-30" : {
+      "calendarChoice" : "Family",
+      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:40760E64-8D0B-41A1-9DE1-0CED9FCD163A",
+      "reminderEnabled" : true,
+      "time" : "09:00",
+      "title" : "Denti Mattia da confermare"
     }
   },
   "ferieTotaliByYear" : {
@@ -48,7 +55,8 @@
     "2026-09-21" : "Corso Accrual (se mi prendono)",
     "2026-09-26" : "Seduta Master",
     "2026-10-03" : "Matrimonio Giuseppe",
-    "2026-10-06" : "CONCORSO: SNA\nCittà: CATANIA\nSede: Misterbianco\nOrario: 09:00"
+    "2026-10-06" : "CONCORSO: SNA\nCittà: CATANIA\nSede: Misterbianco\nOrario: 09:00",
+    "2026-10-30" : "Denti Mattia da confermare"
   },
   "noteCalendarDetailsByDate" : {
     "2026-09-19" : {
@@ -251,7 +259,8 @@
     "2026-10-15" : "sw",
     "2026-10-16" : "sw",
     "2026-10-19" : "sw",
-    "2026-10-20" : "sw"
+    "2026-10-20" : "sw",
+    "2026-10-30" : "E"
   },
   "smartWorkingMonthlyTarget" : 12,
   "standardWorkMinutesByDate" : {
