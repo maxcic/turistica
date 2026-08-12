@@ -45,7 +45,8 @@
   },
   "mezziByDate" : {
     "2026-08-13" : "aereoCT_RM",
-    "2026-08-19" : "trenoRM_CT"
+    "2026-08-19" : "trenoRM_CT",
+    "2026-08-20" : "aereoRM_CT"
   },
   "noteByDate" : {
     "2026-06-29" : "San Pietro e Paolo",
@@ -314,6 +315,23 @@
       "transportCalendarChoice" : "Family",
       "travelers" : [
         "Mamma"
+      ]
+    },
+    "2026-08-20" : {
+      "arrivalTime" : "20:20",
+      "checkInCalendarChoice" : "Personale",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:F3263081-9B0B-446E-BD0E-B9EA619A44D6",
+      "checkInReminderEnabled" : true,
+      "companyName" : "Wizz Air",
+      "departureTime" : "18:35",
+      "flightNumber" : "W6 4758",
+      "transportCalendarChoice" : "Family",
+      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:47104B31-0957-4382-AADF-D40BE49A14B7",
+      "travelers" : [
+        "Francesco",
+        "Paola",
+        "Mattia",
+        "Marco"
       ]
     }
   },
