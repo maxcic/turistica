@@ -51,6 +51,7 @@
   "noteByDate" : {
     "2026-06-29" : "San Pietro e Paolo",
     "2026-07-29" : "Esame Mattia Cambridge",
+    "2026-09-07" : "Chiavi ufficio porta penna e poi giacca",
     "2026-09-09" : "Esami B2 esito",
     "2026-09-16" : "Dentista Le confermiamo l'appuntamento per il 16\/09\/2026 alle 10:45 presso P.O. ACIREALE 'S.MARTA E S.VENERA, VIA CARONIA  1 95024, prenotazione n* 347822526 per la prestazione PRIMA VISITA ODONTOSTOMATOLOGICA. INCLUS  . Per info, preparazioni, disdetta e pagamenti: https:\/\/www.aspct.it\/info",
     "2026-09-19" : "Seduta master",
@@ -61,6 +62,16 @@
     "2026-10-30" : "Denti Mattia da confermare"
   },
   "noteCalendarDetailsByDate" : {
+    "2026-09-07" : {
+      "calendarChoice" : "Family",
+      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:6187DE91-C0D9-4E8F-A761-66F2E81EFCED",
+      "time" : "08:00"
+    },
+    "2026-09-16" : {
+      "calendarChoice" : "Family",
+      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:9FB5003A-8940-4D37-862D-26BBECFA0134",
+      "time" : "10:45"
+    },
     "2026-09-19" : {
       "calendarChoice" : "Family",
       "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:FFBEF2BD-2C8E-4EF2-B9B5-780F2C795578",
