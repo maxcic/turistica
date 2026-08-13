@@ -17,13 +17,6 @@
   },
   "defaultDailyWorkMinutes" : 462,
   "eventDetailsByDate" : {
-    "2026-09-16" : {
-      "calendarChoice" : "Family",
-      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:055DCE8B-1943-4A1B-98CB-9B5E8589E04B",
-      "reminderEnabled" : true,
-      "time" : "10:45",
-      "title" : "Dentista"
-    },
     "2026-10-03" : {
       "calendarChoice" : "Family",
       "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:03B7051E-91DA-4E51-80AF-E5DD993043B8",
@@ -59,7 +52,7 @@
     "2026-06-29" : "San Pietro e Paolo",
     "2026-07-29" : "Esame Mattia Cambridge",
     "2026-09-09" : "Esami B2 esito",
-    "2026-09-16" : "Dentista",
+    "2026-09-16" : "Dentista Le confermiamo l'appuntamento per il 16\/09\/2026 alle 10:45 presso P.O. ACIREALE 'S.MARTA E S.VENERA, VIA CARONIA  1 95024, prenotazione n* 347822526 per la prestazione PRIMA VISITA ODONTOSTOMATOLOGICA. INCLUS  . Per info, preparazioni, disdetta e pagamenti: https:\/\/www.aspct.it\/info",
     "2026-09-19" : "Seduta master",
     "2026-09-21" : "Corso Accrual (se mi prendono)",
     "2026-09-26" : "Seduta Master",
@@ -244,7 +237,7 @@
     "2026-09-11" : "p",
     "2026-09-14" : "sw",
     "2026-09-15" : "sw",
-    "2026-09-16" : "E",
+    "2026-09-16" : "sw",
     "2026-09-17" : "sw",
     "2026-09-18" : "sw",
     "2026-09-19" : "E",
