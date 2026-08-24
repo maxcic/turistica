@@ -267,7 +267,8 @@
     "2026-09-01" : "f",
     "2026-09-02" : "f",
     "2026-09-03" : "f",
-    "2026-09-04" : "f"
+    "2026-09-04" : "f",
+    "2026-09-07" : "sw"
   },
   "smartWorkingMonthlyTarget" : 8,
   "standardWorkMinutesByDate" : {
