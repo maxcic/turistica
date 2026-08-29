@@ -44,7 +44,7 @@
 
   },
   "mezziByDate" : {
-
+    "2026-09-05" : "aereoRM_CT"
   },
   "noteByDate" : {
     "2026-06-29" : "San Pietro e Paolo",
@@ -313,7 +313,22 @@
     "2026-08-11" : 462
   },
   "transportDetailsByDate" : {
-
+    "2026-09-05" : {
+      "arrivalTime" : "19:15",
+      "checkInCalendarChoice" : "Family",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:3A234240-971D-4F35-9196-72F91F1170EB",
+      "checkInReminderEnabled" : true,
+      "companyName" : "Ryanair",
+      "departureTime" : "17:55",
+      "flightNumber" : "FR4891",
+      "transportCalendarChoice" : "Family",
+      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:C47AE7C8-509B-4D12-BB9F-F32A69658209",
+      "travelers" : [
+        "Paola",
+        "Mattia",
+        "Marco"
+      ]
+    }
   },
   "workScheduleByDay" : {
     "2026-05-04" : {
