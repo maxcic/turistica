@@ -44,18 +44,16 @@
 
   },
   "mezziByDate" : {
-    "2026-09-05" : "aereoRM_CT"
+    "2026-09-05" : "aereoRM_CT",
+    "2026-09-11" : "aereoRM_CT"
   },
   "noteByDate" : {
     "2026-06-29" : "San Pietro e Paolo",
     "2026-07-29" : "Esame Mattia Cambridge",
     "2026-09-07" : "Chiavi ufficio porta penna e poi giacca",
-    "2026-09-09" : "Esami B2 esito",
     "2026-09-16" : "Dentista Le confermiamo l'appuntamento per il 16\/09\/2026 alle 10:45 presso P.O. ACIREALE 'S.MARTA E S.VENERA, VIA CARONIA  1 95024, prenotazione n* 347822526 per la prestazione PRIMA VISITA ODONTOSTOMATOLOGICA. INCLUS  . Per info, preparazioni, disdetta e pagamenti: https:\/\/www.aspct.it\/info",
     "2026-09-19" : "Seduta master",
     "2026-09-20" : "Ceretta un mese",
-    "2026-09-21" : "Corso Accrual (se mi prendono)",
-    "2026-09-26" : "Seduta Master",
     "2026-10-03" : "Matrimonio Giuseppe",
     "2026-10-06" : "CONCORSO: SNA\nCittà: CATANIA\nSede: Misterbianco\nOrario: 09:00",
     "2026-10-30" : "Denti Mattia da confermare"
@@ -74,16 +72,6 @@
     "2026-09-19" : {
       "calendarChoice" : "Family",
       "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:FFBEF2BD-2C8E-4EF2-B9B5-780F2C795578",
-      "time" : "08:00"
-    },
-    "2026-09-21" : {
-      "calendarChoice" : "Family",
-      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:76AB7C69-DABC-4BBD-B2E3-B4101AF6E9BA",
-      "time" : "08:00"
-    },
-    "2026-09-26" : {
-      "calendarChoice" : "Family",
-      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:37CF1C84-67A7-4CCB-B916-50A34FFAFF35",
       "time" : "08:00"
     }
   },
@@ -327,6 +315,20 @@
         "Paola",
         "Mattia",
         "Marco"
+      ]
+    },
+    "2026-09-11" : {
+      "arrivalTime" : "07:05",
+      "checkInCalendarChoice" : "Family",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:0CC902EA-01BF-4567-8C0A-44482AC0EFA7",
+      "checkInReminderEnabled" : true,
+      "companyName" : "Ryanair",
+      "departureTime" : "05:45",
+      "flightNumber" : "FR1170",
+      "transportCalendarChoice" : "Family",
+      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:E435698E-7BB2-46FE-A67B-670911EBF146",
+      "travelers" : [
+        "Francesco"
       ]
     }
   },
