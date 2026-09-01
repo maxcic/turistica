@@ -12,7 +12,18 @@
   },
   "defaultDailyWorkMinutes" : 462,
   "eventDetailsByDate" : {
-
+    "2026-10-03" : {
+      "calendarChoice" : "Family",
+      "reminderEnabled" : false,
+      "time" : "09:00",
+      "title" : "Matrimonio Giuseppe"
+    },
+    "2026-10-30" : {
+      "calendarChoice" : "Family",
+      "reminderEnabled" : false,
+      "time" : "09:00",
+      "title" : "Denti Mattia da confermare"
+    }
   },
   "ferieTotaliByYear" : {
     "2025" : 20,
@@ -34,7 +45,10 @@
     "2026-06-13" : "Recuperare lezione master (ok)",
     "2026-06-26" : "Recuperare lezione master (ok)",
     "2026-06-27" : "Recuperare lezione master",
-    "2026-07-02" : "Lezione master da recuperare (ok)"
+    "2026-07-02" : "Lezione master da recuperare (ok)",
+    "2026-09-19" : "Seduta master",
+    "2026-10-03" : "Matrimonio Giuseppe",
+    "2026-10-30" : "Denti Mattia da confermare"
   },
   "noteCalendarDetailsByDate" : {
 
@@ -232,6 +246,7 @@
     "2026-09-16" : "sw",
     "2026-09-17" : "p",
     "2026-09-18" : "sw",
+    "2026-09-19" : "E",
     "2026-09-21" : "pp",
     "2026-09-22" : "pp",
     "2026-09-23" : "pp",
@@ -240,7 +255,9 @@
     "2026-09-28" : "sw",
     "2026-09-29" : "p",
     "2026-09-30" : "p",
-    "2026-10-02" : "sw"
+    "2026-10-02" : "sw",
+    "2026-10-03" : "E",
+    "2026-10-30" : "E"
   },
   "smartWorkingMonthlyTarget" : 8,
   "standardWorkMinutesByDate" : {
