@@ -44,7 +44,6 @@
 
   },
   "mezziByDate" : {
-    "2026-09-05" : "aereoRM_CT",
     "2026-09-11" : "aereoRM_CT"
   },
   "noteByDate" : {
@@ -306,20 +305,6 @@
     "2026-08-11" : 462
   },
   "transportDetailsByDate" : {
-    "2026-09-05" : {
-      "arrivalTime" : "19:15",
-      "checkInCalendarChoice" : "Family",
-      "checkInReminderEnabled" : false,
-      "companyName" : "Ryanair",
-      "departureTime" : "17:55",
-      "flightNumber" : "FR4891",
-      "transportCalendarChoice" : "Family",
-      "travelers" : [
-        "Paola",
-        "Mattia",
-        "Marco"
-      ]
-    },
     "2026-09-11" : {
       "arrivalTime" : "07:05",
       "checkInCalendarChoice" : "Family",
