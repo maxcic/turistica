@@ -46,6 +46,7 @@
   "mezziByDate" : {
 
   },
+  "monthlyOvertimeTargetHours" : 20,
   "noteByDate" : {
     "2026-06-29" : "San Pietro e Paolo",
     "2026-07-29" : "Esame Mattia Cambridge",
