@@ -44,7 +44,7 @@
 
   },
   "mezziByDate" : {
-    "2026-09-11" : "aereoRM_CT"
+
   },
   "noteByDate" : {
     "2026-06-29" : "San Pietro e Paolo",
@@ -300,23 +300,11 @@
     "2026-09-07" : 462,
     "2026-09-08" : 462,
     "2026-09-09" : 462,
-    "2026-09-10" : 462
+    "2026-09-10" : 462,
+    "2026-09-11" : 462
   },
   "transportDetailsByDate" : {
-    "2026-09-11" : {
-      "arrivalTime" : "07:05",
-      "checkInCalendarChoice" : "Family",
-      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:0CC902EA-01BF-4567-8C0A-44482AC0EFA7",
-      "checkInReminderEnabled" : true,
-      "companyName" : "Ryanair",
-      "departureTime" : "05:45",
-      "flightNumber" : "FR1170",
-      "transportCalendarChoice" : "Family",
-      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:E435698E-7BB2-46FE-A67B-670911EBF146",
-      "travelers" : [
-        "Francesco"
-      ]
-    }
+
   },
   "workScheduleByDay" : {
     "2026-05-04" : {
@@ -434,6 +422,10 @@
     "2026-09-10" : {
       "entry" : "07:10",
       "exit" : "18:40"
+    },
+    "2026-09-11" : {
+      "entry" : "07:17",
+      "exit" : ""
     }
   }
 }
