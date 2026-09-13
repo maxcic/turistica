@@ -44,7 +44,7 @@
 
   },
   "mezziByDate" : {
-
+    "2026-10-06" : "aereoCT_RM"
   },
   "monthlyOvertimeTargetHours" : 20,
   "noteByDate" : {
@@ -305,7 +305,22 @@
     "2026-09-11" : 462
   },
   "transportDetailsByDate" : {
-
+    "2026-10-06" : {
+      "arrivalTime" : "00:25",
+      "checkInCalendarChoice" : "Personale",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:B5A4DB2A-D041-4B83-AB68-156398100DA1",
+      "checkInReminderEnabled" : true,
+      "companyName" : "Ryanair",
+      "departureLocation" : "CT",
+      "departureTime" : "22:55",
+      "destinationLocation" : "RM",
+      "flightNumber" : "FR4860",
+      "transportCalendarChoice" : "Personale",
+      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:13DDEEC9-7345-4DD2-A11F-A4E82D8C0AB2",
+      "travelers" : [
+        "Francesco"
+      ]
+    }
   },
   "workScheduleByDay" : {
     "2026-05-04" : {
