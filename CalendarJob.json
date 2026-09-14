@@ -44,7 +44,8 @@
 
   },
   "mezziByDate" : {
-    "2026-10-06" : "aereoCT_RM"
+    "2026-10-06" : "aereoCT_RM",
+    "2026-10-09" : "aereoRM_CT"
   },
   "monthlyOvertimeTargetHours" : 20,
   "noteByDate" : {
@@ -53,6 +54,7 @@
     "2026-09-16" : "Dentista Le confermiamo l'appuntamento per il 16\/09\/2026 alle 10:45 presso P.O. ACIREALE 'S.MARTA E S.VENERA, VIA CARONIA  1 95024, prenotazione n* 347822526 per la prestazione PRIMA VISITA ODONTOSTOMATOLOGICA. INCLUS  . Per info, preparazioni, disdetta e pagamenti: https:\/\/www.aspct.it\/info",
     "2026-09-19" : "Seduta master",
     "2026-09-20" : "Ceretta un mese",
+    "2026-09-24" : "Notaio ore 16",
     "2026-10-03" : "Matrimonio Giuseppe",
     "2026-10-06" : "CONCORSO: SNA\nCittà: CATANIA\nSede: Misterbianco\nOrario: 09:00",
     "2026-10-30" : "Denti Mattia da confermare"
@@ -67,6 +69,11 @@
       "calendarChoice" : "Family",
       "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:FFBEF2BD-2C8E-4EF2-B9B5-780F2C795578",
       "time" : "08:00"
+    },
+    "2026-09-24" : {
+      "calendarChoice" : "Personale",
+      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:6A2D67FF-D412-42C5-85F6-805BB2BC9974",
+      "time" : "16:00"
     }
   },
   "riposiCompensativiByDate" : {
@@ -256,9 +263,9 @@
     "2026-10-03" : "E",
     "2026-10-05" : "sw",
     "2026-10-06" : "c",
-    "2026-10-07" : "sw",
-    "2026-10-08" : "sw",
-    "2026-10-09" : "sw",
+    "2026-10-07" : "p",
+    "2026-10-08" : "p",
+    "2026-10-09" : "p",
     "2026-10-12" : "sw",
     "2026-10-13" : "sw",
     "2026-10-14" : "sw",
@@ -317,6 +324,22 @@
       "flightNumber" : "FR4860",
       "transportCalendarChoice" : "Personale",
       "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:13DDEEC9-7345-4DD2-A11F-A4E82D8C0AB2",
+      "travelers" : [
+        "Francesco"
+      ]
+    },
+    "2026-10-09" : {
+      "arrivalTime" : "22:20",
+      "checkInCalendarChoice" : "Personale",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:7BD96DFE-2DC5-4E62-916A-8ADB6D87295E",
+      "checkInReminderEnabled" : true,
+      "companyName" : "Ryanair",
+      "departureLocation" : "RM",
+      "departureTime" : "21:00",
+      "destinationLocation" : "CT",
+      "flightNumber" : "FR4858",
+      "transportCalendarChoice" : "Family",
+      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:D6546586-38B7-460C-8F7A-5A7471F56E0C",
       "travelers" : [
         "Francesco"
       ]
