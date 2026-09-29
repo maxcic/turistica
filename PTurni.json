@@ -17,6 +17,20 @@
       "reminderEnabled" : false,
       "time" : "09:00",
       "title" : "Matrimonio Giuseppe"
+    },
+    "2026-10-13" : {
+      "calendarChoice" : "Family",
+      "eventIdentifier" : "5A7B4D6D-15A4-4CAC-830A-35B3776893D6:A1957FF9-0228-448A-B931-8B110F619D52",
+      "reminderEnabled" : true,
+      "time" : "09:00",
+      "title" : "Pre-ricovero Mattia"
+    },
+    "2026-10-28" : {
+      "calendarChoice" : "Family",
+      "eventIdentifier" : "5A7B4D6D-15A4-4CAC-830A-35B3776893D6:30E5D082-CAAE-4F80-88A0-0015FF75B307",
+      "reminderEnabled" : true,
+      "time" : "09:00",
+      "title" : "Ricovero Mattia"
     }
   },
   "ferieTotaliByYear" : {
@@ -42,6 +56,8 @@
     "2026-07-02" : "Lezione master da recuperare (ok)",
     "2026-09-19" : "Seduta master",
     "2026-10-03" : "Matrimonio Giuseppe",
+    "2026-10-13" : "Pre-ricovero Mattia",
+    "2026-10-28" : "Ricovero Mattia",
     "2026-10-30" : "Denti Mattia da confermare"
   },
   "noteCalendarDetailsByDate" : {
@@ -259,7 +275,7 @@
     "2026-10-08" : "sw",
     "2026-10-09" : "sw",
     "2026-10-12" : "sw",
-    "2026-10-13" : "p",
+    "2026-10-13" : "E",
     "2026-10-14" : "p",
     "2026-10-15" : "p",
     "2026-10-16" : "sw",
@@ -270,7 +286,7 @@
     "2026-10-23" : "sw",
     "2026-10-26" : "sw",
     "2026-10-27" : "p",
-    "2026-10-28" : "p",
+    "2026-10-28" : "E",
     "2026-10-29" : "p",
     "2026-10-30" : "sw",
     "2026-11-02" : "sw",
