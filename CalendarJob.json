@@ -47,10 +47,15 @@
     "2026-10-02" : "11:00 NOTAIO",
     "2026-10-03" : "Matrimonio Giuseppe",
     "2026-10-06" : "CONCORSO: SNA\nCittà: CATANIA\nSede: Misterbianco\nOrario: 09:00",
+    "2026-10-13" : "Visita denti ore 11 Acireale",
     "2026-10-30" : "Denti Mattia da confermare"
   },
   "noteCalendarDetailsByDate" : {
-
+    "2026-10-13" : {
+      "calendarChoice" : "Family",
+      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:79A2A99B-91BB-462C-A15A-CBB738A2A9ED",
+      "time" : "11:00"
+    }
   },
   "riposiCompensativiByDate" : {
     "2026-05-07" : "07:12",
