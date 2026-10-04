@@ -17,13 +17,7 @@
   },
   "defaultDailyWorkMinutes" : 462,
   "eventDetailsByDate" : {
-    "2026-10-03" : {
-      "calendarChoice" : "Family",
-      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:03B7051E-91DA-4E51-80AF-E5DD993043B8",
-      "reminderEnabled" : true,
-      "time" : "09:00",
-      "title" : "Matrimonio Giuseppe"
-    }
+
   },
   "ferieTotaliByYear" : {
     "2025" : 0,
@@ -244,7 +238,6 @@
     "2026-09-30" : "H",
     "2026-10-01" : "sw",
     "2026-10-02" : "sw",
-    "2026-10-03" : "E",
     "2026-10-05" : "sw",
     "2026-10-06" : "c",
     "2026-10-07" : "p",
