@@ -32,7 +32,9 @@
   },
   "mezziByDate" : {
     "2026-10-06" : "aereoCT_RM",
-    "2026-10-09" : "aereoRM_CT"
+    "2026-10-09" : "aereoRM_CT",
+    "2026-11-01" : "aereoCT_RM",
+    "2026-11-04" : "aereoRM_CT"
   },
   "monthlyOvertimeTargetHours" : 20,
   "noteByDate" : {
@@ -342,6 +344,38 @@
       "flightNumber" : "FR4858",
       "transportCalendarChoice" : "Family",
       "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:D6546586-38B7-460C-8F7A-5A7471F56E0C",
+      "travelers" : [
+        "Francesco"
+      ]
+    },
+    "2026-11-01" : {
+      "arrivalTime" : "00:25",
+      "checkInCalendarChoice" : "Personale",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:843C7BCA-FDB0-4F04-8828-8A01840CA128",
+      "checkInReminderEnabled" : true,
+      "companyName" : "Ryanair",
+      "departureLocation" : "CT",
+      "departureTime" : "23:00",
+      "destinationLocation" : "RM",
+      "flightNumber" : "FR4851",
+      "transportCalendarChoice" : "Personale",
+      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:8C31EC67-9327-4F28-92C0-1493C6D10D28",
+      "travelers" : [
+        "Francesco"
+      ]
+    },
+    "2026-11-04" : {
+      "arrivalTime" : "21:50",
+      "checkInCalendarChoice" : "Personale",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:1FED0591-2E5D-4C21-BC9C-AB23BF66E757",
+      "checkInReminderEnabled" : true,
+      "companyName" : "Ryanair",
+      "departureLocation" : "RM",
+      "departureTime" : "20:30",
+      "destinationLocation" : "CT",
+      "flightNumber" : "FR4852",
+      "transportCalendarChoice" : "Personale",
+      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:0988FA86-FAA6-422A-8DFD-0878B8DE6DC9",
       "travelers" : [
         "Francesco"
       ]
