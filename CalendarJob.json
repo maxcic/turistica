@@ -10,6 +10,12 @@
       "competitionType" : "SNA",
       "time" : "09:00",
       "venue" : "Misterbianco"
+    },
+    "2026-10-30" : {
+      "city" : "ROMA",
+      "competitionType" : "Inps",
+      "time" : "12:00",
+      "venue" : "Ergife"
     }
   },
   "decurtazioniBancaOreByMonth" : {
@@ -33,7 +39,7 @@
   "mezziByDate" : {
     "2026-10-06" : "aereoCT_RM",
     "2026-10-09" : "aereoRM_CT",
-    "2026-11-01" : "aereoCT_RM",
+    "2026-10-30" : "aereoCT_RM",
     "2026-11-04" : "aereoRM_CT"
   },
   "monthlyOvertimeTargetHours" : 20,
@@ -43,7 +49,7 @@
     "2026-10-06" : "CONCORSO: SNA\nCittà: CATANIA\nSede: Misterbianco\nOrario: 09:00",
     "2026-10-13" : "Visita denti ore 11 Acireale",
     "2026-10-28" : "Ricovero Mattia ore 7:00",
-    "2026-10-30" : "Denti Mattia da confermare",
+    "2026-10-30" : "Denti Mattia da confermare\nCONCORSO: Inps\nCittà: ROMA\nSede: Ergife\nOrario: 12:00",
     "2026-11-20" : "9 Memmingen",
     "2026-11-23" : "12 Rientro memmingen"
   },
@@ -57,6 +63,11 @@
       "calendarChoice" : "Family",
       "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:E8B93DEA-5F5A-4D36-9815-2E7DF3D4F3D5",
       "time" : "07:00"
+    },
+    "2026-10-30" : {
+      "calendarChoice" : "Personale",
+      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:EBC708D8-3F93-4BFF-B601-B16EACD8B32C",
+      "time" : "12:00"
     }
   },
   "riposiCompensativiByDate" : {
@@ -261,7 +272,7 @@
     "2026-10-27" : "f",
     "2026-10-28" : "f",
     "2026-10-29" : "H",
-    "2026-10-30" : "H",
+    "2026-10-30" : "c",
     "2026-11-02" : "p",
     "2026-11-03" : "p",
     "2026-11-04" : "p",
@@ -354,18 +365,18 @@
         "Francesco"
       ]
     },
-    "2026-11-01" : {
-      "arrivalTime" : "00:25",
+    "2026-10-30" : {
+      "arrivalTime" : "07:15",
       "checkInCalendarChoice" : "Personale",
-      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:843C7BCA-FDB0-4F04-8828-8A01840CA128",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:9015A397-9545-448B-B47B-6F1B0ED95385",
       "checkInReminderEnabled" : true,
       "companyName" : "Ryanair",
       "departureLocation" : "CT",
-      "departureTime" : "23:00",
+      "departureTime" : "05:50",
       "destinationLocation" : "RM",
-      "flightNumber" : "FR4851",
+      "flightNumber" : "FR4871",
       "transportCalendarChoice" : "Personale",
-      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:8C31EC67-9327-4F28-92C0-1493C6D10D28",
+      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:E59CFF2E-7D65-4276-B95D-3C9853E62485",
       "travelers" : [
         "Francesco"
       ]
