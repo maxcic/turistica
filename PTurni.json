@@ -17,13 +17,6 @@
       "reminderEnabled" : false,
       "time" : "09:00",
       "title" : "Matrimonio Giuseppe"
-    },
-    "2026-10-13" : {
-      "calendarChoice" : "Family",
-      "eventIdentifier" : "5A7B4D6D-15A4-4CAC-830A-35B3776893D6:A1957FF9-0228-448A-B931-8B110F619D52",
-      "reminderEnabled" : true,
-      "time" : "09:00",
-      "title" : "Pre-ricovero Mattia"
     }
   },
   "ferieTotaliByYear" : {
@@ -264,11 +257,11 @@
     "2026-10-03" : "E",
     "2026-10-05" : "p",
     "2026-10-06" : "p",
-    "2026-10-07" : "sw",
+    "2026-10-07" : "p",
     "2026-10-08" : "sw",
     "2026-10-09" : "sw",
     "2026-10-12" : "sw",
-    "2026-10-13" : "E",
+    "2026-10-13" : "sw",
     "2026-10-14" : "p",
     "2026-10-15" : "p",
     "2026-10-16" : "sw",
