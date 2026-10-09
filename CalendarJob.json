@@ -319,7 +319,9 @@
     "2027-01-05" : "sw",
     "2027-01-07" : "sw",
     "2027-01-08" : "sw",
-    "2027-01-11" : "sw"
+    "2027-01-11" : "sw",
+    "2027-01-28" : "f",
+    "2027-01-29" : "f"
   },
   "smartWorkingMonthlyTarget" : 12,
   "standardWorkMinutesByDate" : {
