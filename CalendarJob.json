@@ -39,7 +39,9 @@
   "mezziByDate" : {
     "2026-10-09" : "aereoRM_CT",
     "2026-10-30" : "aereoCT_RM",
-    "2026-11-04" : "aereoRM_CT"
+    "2026-11-04" : "aereoRM_CT",
+    "2026-12-06" : "aereoCT_RM",
+    "2026-12-11" : "aereoRM_CT"
   },
   "monthlyOvertimeTargetHours" : 20,
   "noteByDate" : {
@@ -292,6 +294,10 @@
     "2026-11-26" : "H",
     "2026-11-27" : "fs",
     "2026-11-30" : "fs",
+    "2026-12-07" : "p",
+    "2026-12-09" : "p",
+    "2026-12-10" : "p",
+    "2026-12-11" : "p",
     "2026-12-28" : "f",
     "2026-12-29" : "f",
     "2026-12-30" : "f",
@@ -378,6 +384,38 @@
       "flightNumber" : "FR4852",
       "transportCalendarChoice" : "Personale",
       "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:0988FA86-FAA6-422A-8DFD-0878B8DE6DC9",
+      "travelers" : [
+        "Francesco"
+      ]
+    },
+    "2026-12-06" : {
+      "arrivalTime" : "00:25",
+      "checkInCalendarChoice" : "Personale",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:03675D50-8EEF-439E-8EAF-77F1CE15D147",
+      "checkInReminderEnabled" : true,
+      "companyName" : "Ryanair",
+      "departureLocation" : "CT",
+      "departureTime" : "23:00",
+      "destinationLocation" : "RM",
+      "flightNumber" : "FR4851",
+      "transportCalendarChoice" : "Personale",
+      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:D8EA3909-3C49-4893-8192-BF55C7238E71",
+      "travelers" : [
+        "Francesco"
+      ]
+    },
+    "2026-12-11" : {
+      "arrivalTime" : "00:10",
+      "checkInCalendarChoice" : "Personale",
+      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:1726C23E-F0B1-41D2-914A-D494802F4D00",
+      "checkInReminderEnabled" : true,
+      "companyName" : "Ryanair",
+      "departureLocation" : "RM",
+      "departureTime" : "22:50",
+      "destinationLocation" : "CT",
+      "flightNumber" : "FR4858",
+      "transportCalendarChoice" : "Personale",
+      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:2A735D40-67A5-4945-B0D4-E6BA3BBD9577",
       "travelers" : [
         "Francesco"
       ]
