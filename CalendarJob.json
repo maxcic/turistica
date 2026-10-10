@@ -31,7 +31,10 @@
       "suore" : 4000
     },
     "2026-10-09" : {
-      "expense|leonardoExpress|AF390FCF-D74A-4461-8AD4-792C07E539D2|" : 1100
+      "expense|aereo|CFB8DE5A-AD9E-420B-AC2E-BA932E9DB449|" : 2850,
+      "expense|bus|81FFABEB-C920-4F97-899F-F1B6947613B3|" : 400,
+      "expense|leonardoExpress|AF390FCF-D74A-4461-8AD4-792C07E539D2|" : 1100,
+      "expense|monopattino|20CA943D-5525-473B-B517-5290A7F878C8|" : 150
     },
     "2026-10-30" : {
       "expense|leonardoExpress|91D7E436-B401-4FC0-BB9F-9DC98C89E9BB|" : 1100,
