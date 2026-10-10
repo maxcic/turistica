@@ -20,7 +20,7 @@
   },
   "costsByDate" : {
     "2026-10-06" : {
-      "expense|altro|C672FD91-A44A-4096-AE4D-F9458D7E0C2D|" : 1950,
+      "expense|aereo|1A035B18-396F-4F0E-8C38-FD081E483826|" : 1125,
       "expense|leonardoExpress|10E2B964-8382-4522-832B-98C1C37CDD77|" : 1100,
       "expense|monopattino|1F9DCF20-12E6-48E0-95B3-C3D0BDD78461|" : 200
     },
@@ -31,7 +31,6 @@
       "suore" : 4000
     },
     "2026-10-09" : {
-      "expense|altro|A07BDFA3-3CF7-4F53-9CA3-9BC925CDB4E2|" : 3000,
       "expense|leonardoExpress|AF390FCF-D74A-4461-8AD4-792C07E539D2|" : 1100
     },
     "2026-10-30" : {
