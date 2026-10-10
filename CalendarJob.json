@@ -57,6 +57,7 @@
       "transport" : 1838
     },
     "2026-12-06" : {
+      "expense|leonardoExpress|1768F5E5-3744-4024-B226-D2D9E091BE48|" : 1100,
       "transport" : 1125
     },
     "2026-12-07" : {
@@ -72,7 +73,8 @@
       "suore" : 4000
     },
     "2026-12-11" : {
-      "transport" : 3400
+      "expense|leonardoExpress|449B1471-A631-45F4-9276-95F41FD19769|" : 1100,
+      "transport" : 1725
     }
   },
   "dayMarkersByDate" : {
