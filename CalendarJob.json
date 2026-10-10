@@ -18,6 +18,11 @@
       "venue" : "Ergife"
     }
   },
+  "dayMarkersByDate" : {
+    "2026-11-02" : [
+      "suore"
+    ]
+  },
   "decurtazioniBancaOreByMonth" : {
 
   },
