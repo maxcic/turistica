@@ -20,7 +20,7 @@
   },
   "costsByDate" : {
     "2026-10-06" : {
-      "transport" : 2600
+      "transport" : 3700
     },
     "2026-10-07" : {
       "suore" : 4000
@@ -32,7 +32,7 @@
       "transport" : 4900
     },
     "2026-10-30" : {
-      "transport" : 2360
+      "transport" : 3400
     },
     "2026-10-31" : {
       "suore" : 5000
