@@ -18,6 +18,17 @@
       "venue" : "Ergife"
     }
   },
+  "costsByDate" : {
+    "2026-10-30" : {
+      "transport" : 1500
+    },
+    "2026-11-02" : {
+      "suore" : 4000
+    },
+    "2026-11-03" : {
+      "suore" : 4000
+    }
+  },
   "dayMarkersByDate" : {
     "2026-11-02" : [
       "suore"
