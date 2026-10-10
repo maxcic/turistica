@@ -37,7 +37,6 @@
 
   },
   "mezziByDate" : {
-    "2026-10-09" : "aereoRM_CT",
     "2026-10-30" : "aereoCT_RM",
     "2026-11-04" : "aereoRM_CT",
     "2026-12-06" : "aereoCT_RM",
@@ -360,22 +359,6 @@
     "2026-10-09" : 462
   },
   "transportDetailsByDate" : {
-    "2026-10-09" : {
-      "arrivalTime" : "22:20",
-      "checkInCalendarChoice" : "Personale",
-      "checkInEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:7BD96DFE-2DC5-4E62-916A-8ADB6D87295E",
-      "checkInReminderEnabled" : true,
-      "companyName" : "Ryanair",
-      "departureLocation" : "RM",
-      "departureTime" : "21:00",
-      "destinationLocation" : "CT",
-      "flightNumber" : "FR4858",
-      "transportCalendarChoice" : "Family",
-      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:D6546586-38B7-460C-8F7A-5A7471F56E0C",
-      "travelers" : [
-        "Francesco"
-      ]
-    },
     "2026-10-30" : {
       "arrivalTime" : "07:15",
       "checkInCalendarChoice" : "Personale",
