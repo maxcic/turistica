@@ -23,7 +23,19 @@
       "suore"
     ],
     "2026-11-03" : [
-      "hotel"
+      "suore"
+    ],
+    "2026-12-07" : [
+      "suore"
+    ],
+    "2026-12-08" : [
+      "suore"
+    ],
+    "2026-12-09" : [
+      "suore"
+    ],
+    "2026-12-10" : [
+      "suore"
     ]
   },
   "decurtazioniBancaOreByMonth" : {
@@ -78,7 +90,54 @@
     }
   },
   "religiousLodgingByDate" : {
-
+    "2026-11-02" : {
+      "address" : "Via Tasso 157, Roma (RM)",
+      "checkIn" : "13:00–21:00",
+      "checkOut" : "Entro le 10:00",
+      "email" : "sct.casaperferie@gmail.com",
+      "name" : "Casa per Ferie – Suore Carmelitane Teresiane",
+      "phone" : "+39 331 456 6898"
+    },
+    "2026-11-03" : {
+      "address" : "Via Tasso 157, Roma (RM)",
+      "checkIn" : "13:00–21:00",
+      "checkOut" : "Entro le 10:00",
+      "email" : "sct.casaperferie@gmail.com",
+      "name" : "Casa per Ferie – Suore Carmelitane Teresiane",
+      "phone" : "+39 331 456 6898"
+    },
+    "2026-12-07" : {
+      "address" : "Via Merulana 170, Roma (RM)",
+      "checkIn" : "",
+      "checkOut" : "",
+      "email" : "",
+      "name" : "Suore – Via Merulana",
+      "phone" : "+39 333 963 6949"
+    },
+    "2026-12-08" : {
+      "address" : "Via Merulana 170, Roma (RM)",
+      "checkIn" : "",
+      "checkOut" : "",
+      "email" : "",
+      "name" : "Suore – Via Merulana",
+      "phone" : "+39 333 963 6949"
+    },
+    "2026-12-09" : {
+      "address" : "Via Merulana 170, Roma (RM)",
+      "checkIn" : "",
+      "checkOut" : "",
+      "email" : "",
+      "name" : "Suore – Via Merulana",
+      "phone" : "+39 333 963 6949"
+    },
+    "2026-12-10" : {
+      "address" : "Via Merulana 170, Roma (RM)",
+      "checkIn" : "",
+      "checkOut" : "",
+      "email" : "",
+      "name" : "Suore – Via Merulana",
+      "phone" : "+39 333 963 6949"
+    }
   },
   "riposiCompensativiByDate" : {
     "2026-05-07" : "07:12",
@@ -315,6 +374,7 @@
     "2026-12-14" : "H",
     "2026-12-15" : "H",
     "2026-12-16" : "H",
+    "2026-12-17" : "sw",
     "2026-12-18" : "sw",
     "2026-12-21" : "pp",
     "2026-12-22" : "pp",
