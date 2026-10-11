@@ -37,11 +37,11 @@
       "expense|monopattino|20CA943D-5525-473B-B517-5290A7F878C8|" : 150
     },
     "2026-10-16" : {
-
+      "transport:aereoCT_RM" : 2500
     },
     "2026-10-30" : {
       "expense|leonardoExpress|91D7E436-B401-4FC0-BB9F-9DC98C89E9BB|" : 1100,
-      "transport" : 1725
+      "transport:aereoCT_RM" : 1725
     },
     "2026-10-31" : {
       "suore" : 5000
@@ -57,11 +57,11 @@
     },
     "2026-11-04" : {
       "expense|leonardoExpress|2E532A35-2CF5-459C-AC83-18A85047C257|" : 1100,
-      "transport" : 1838
+      "transport:aereoRM_CT" : 1838
     },
     "2026-12-06" : {
       "expense|leonardoExpress|1768F5E5-3744-4024-B226-D2D9E091BE48|" : 1100,
-      "transport" : 1125
+      "transport:aereoCT_RM" : 1125
     },
     "2026-12-07" : {
       "suore" : 4000
@@ -77,7 +77,7 @@
     },
     "2026-12-11" : {
       "expense|leonardoExpress|449B1471-A631-45F4-9276-95F41FD19769|" : 1100,
-      "transport" : 1725
+      "transport:aereoRM_CT" : 1725
     }
   },
   "dayMarkersByDate" : {
@@ -154,6 +154,7 @@
 
   },
   "mezziByDate" : {
+    "2026-10-16" : "aereoCT_RM",
     "2026-10-30" : "aereoCT_RM",
     "2026-11-04" : "aereoRM_CT",
     "2026-12-06" : "aereoCT_RM",
@@ -534,6 +535,21 @@
     "2026-10-09" : 462
   },
   "transportDetailsByDate" : {
+    "2026-10-16" : {
+      "arrivalTime" : "09:00",
+      "checkInCalendarChoice" : "Personale",
+      "checkInReminderEnabled" : false,
+      "companyName" : "Ryanair",
+      "departureLocation" : "GG",
+      "departureTime" : "08:00",
+      "destinationLocation" : "HHG",
+      "flightNumber" : "GGU",
+      "transportCalendarChoice" : "Personale",
+      "transportEventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:A913DDEB-A3AE-471E-BF8B-830A785D67AD",
+      "travelers" : [
+        "Francesco"
+      ]
+    },
     "2026-10-30" : {
       "arrivalTime" : "07:15",
       "checkInCalendarChoice" : "Personale",
