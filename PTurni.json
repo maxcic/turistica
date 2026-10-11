@@ -7,6 +7,9 @@
   "competitionDetailsByDate" : {
 
   },
+  "dayMarkersByDate" : {
+
+  },
   "decurtazioniBancaOreByMonth" : {
 
   },
@@ -33,6 +36,7 @@
   "mezziByDate" : {
 
   },
+  "monthlyOvertimeTargetHours" : 20,
   "noteByDate" : {
     "2026-05-30" : "Lezione master da recuperare (ok)",
     "2026-06-06" : "Lezione master da recuperare (ok)",
@@ -47,6 +51,9 @@
     "2026-10-30" : "Denti Mattia da confermare"
   },
   "noteCalendarDetailsByDate" : {
+
+  },
+  "religiousLodgingByDate" : {
 
   },
   "riposiCompensativiByDate" : {
