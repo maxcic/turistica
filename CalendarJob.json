@@ -42,6 +42,9 @@
     "2026-10-30" : {
       "transport:aereoCT_RM" : 1725
     },
+    "2026-10-31" : {
+      "suore" : 5000
+    },
     "2026-11-01" : {
       "suore" : 5000
     },
@@ -52,7 +55,6 @@
       "suore" : 5000
     },
     "2026-11-04" : {
-      "expense|leonardoExpress|2E532A35-2CF5-459C-AC83-18A85047C257|" : 1100,
       "transport:aereoRM_CT" : 1838
     },
     "2026-12-06" : {
@@ -128,6 +130,9 @@
 
   },
   "excludedCostsByDate" : {
+    "2026-10-31" : [
+      "suore"
+    ],
     "2026-11-01" : [
       "suore"
     ],
