@@ -289,6 +289,7 @@
   "noteByDate" : {
     "2026-06-29" : "San Pietro e Paolo",
     "2026-07-29" : "Esame Mattia Cambridge",
+    "2026-10-20" : "15:00 Riunione EY ACCENTURE CONSUNTIVO",
     "2026-10-28" : "Ricovero Mattia ore 7:00",
     "2026-10-30" : "Denti Mattia da confermare\nCONCORSO: Inps\nCittà: ROMA\nSede: Ergife\nOrario: 12:00",
     "2026-11-02" : "Tessera ATE",
@@ -296,6 +297,11 @@
     "2026-11-23" : "12 Rientro memmingen"
   },
   "noteCalendarDetailsByDate" : {
+    "2026-10-20" : {
+      "calendarChoice" : "Personale",
+      "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:48103DBA-6F12-4336-A397-E50D39FAC73C",
+      "time" : "15:00"
+    },
     "2026-10-28" : {
       "calendarChoice" : "Family",
       "eventIdentifier" : "CA90AB71-E61C-4A99-997C-3EB1E718EEE6:E8B93DEA-5F5A-4D36-9815-2E7DF3D4F3D5",
