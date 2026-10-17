@@ -290,7 +290,7 @@
     "2026-06-29" : "San Pietro e Paolo",
     "2026-07-29" : "Esame Mattia Cambridge",
     "2026-10-20" : "9:30 CREDEM\n15:00 Riunione EY ACCENTURE CONSUNTIVO",
-    "2026-10-28" : "Ricovero Mattia ore 7:00",
+    "2026-10-28" : "Ricovero Mattia dalle ore 7:00",
     "2026-10-30" : "CONCORSO: Inps\nCittà: ROMA\nSede: Ergife\nOrario: 12:00",
     "2026-11-02" : "Tessera ATE",
     "2026-11-20" : "9 Memmingen",
@@ -314,6 +314,14 @@
     }
   },
   "religiousLodgingByDate" : {
+    "2026-10-30" : {
+      "address" : "Via Merulana 170, Roma (RM)",
+      "checkIn" : "",
+      "checkOut" : "",
+      "email" : "",
+      "name" : "Suore – Via Merulana",
+      "phone" : "+39 333 963 6949"
+    },
     "2026-10-31" : {
       "address" : "Via Merulana 170, Roma (RM)",
       "checkIn" : "",
